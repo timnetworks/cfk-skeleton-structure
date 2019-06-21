@@ -756,7 +756,7 @@ Host your own fundraising campaign for Change for Kids and rally your family and
 
 Help us transform public elementary school education in low-income communities and set thousands of NYC students on the path to a bright future. For more information about sponsoring a Change for Kids partner school, or to make a donation of stock, please contact Karen Epstein, Executive Director, at kepstein@changeforkids.org.
 
--[x] Donation Form
+- [x] Donation Form
 
 
 # PRIVACY POLICY
