@@ -1,16 +1,11 @@
-# cfk-skeleton-structure
-official cfk website skeleton structure
-
-
-## Change for Kids Website Heirarchial Structure
+# Change for Kids Website Heirarchial Structure
 ## Design: May 2019
+-----
+
+### COLORSET
 
 
-## COLORSET
-## ########
-
-
-Red
+##### Red
 
 PMS 7417C
 
@@ -21,7 +16,7 @@ hex #e7493e
 rgb r.231 g.73 b.62
 
 
-Teal
+##### Teal
 
 PMS 7466
 
@@ -32,7 +27,8 @@ hex #00afbf
 rgb 0.175.191
 
 
-Purple
+##### Purple
+
 PMS 258c
 
 cmyk 52.81.0.0
@@ -42,7 +38,7 @@ hex #8c539b
 rgb 140.83.155
 
 
-Yellow
+##### Yellow
 
 PMS 1235c
 
@@ -53,7 +49,7 @@ hex #ffbd4c
 rgb 255.189.76
 
 
-Green
+##### Green
 
 PMS 611c
 
@@ -64,7 +60,7 @@ hex #c3d756
 rgb 195.215.86
 
 
-Navy Blue
+##### Navy Blue
 
 PMS 2756c
 
@@ -75,43 +71,42 @@ hex #172a63
 rgb 23.42.99
 
 
-## HOME PAGE
-## ##########
+# HOME PAGE
 
-Change For Kids
+### Change For Kids
 
-Our mission is to create opportunities for kids so they can overcome inequity.
+##### Our mission is to create opportunities for kids so they can overcome inequity.
 
-Change for Kids creates opportunities for kids in New York City public schools. We provide critical
+Change for Kids creates opportunities for kids in New York City public schools. We provide critical 
 supports, experiences, and access so they can reimagine their possibilities and overcome inequity.
 We believe opportunities create options. We believe that one can’t dream what one has not seen. We
 believe creating opportunities for young people allows them to see themselves with different options,
 through different lenses. And this affords them the tools to reimagine their own possibility and the tools
 with which to overcome inequity.
 
-The Change For Kids Model
+##### The Change For Kids Model
 Improving literacy, social-emotional learning, and community engagement is at the core of our model
 
-Partner Schools
+##### Partner Schools
 Have a collaborative school culture with a commitment to success
 
-School Managers
+##### School Managers
 Manage a mix of programs, resources and volunteers for maximum effect
 
-Programs
+##### Programs
 Bring a variety of educational, arts, and vocational opportunities for kids to reimagine possibilities and
 broaden horizons
 
-Supporters
+##### Supporters
 Provide funding and support that help us deliver and expand our impact
 
-Volunteers
+##### Volunteers
 Inspire our students and enrich our school communities
 
 
-## ABOUT US
-## ########
-Our Values and Culture
+# ABOUT US
+
+### Our Values and Culture
 
 Our Change for Kids values act as a compass for how we work together across our entire community.
 
