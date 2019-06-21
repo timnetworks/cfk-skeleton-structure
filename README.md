@@ -108,25 +108,25 @@ Our Change for Kids values act as a compass for how we work together across our 
 
 ##### We are:
 
-**Responsive:
+**Responsive:**
 
 We understand and actively address the evolving needs of our diverse community.
 
-**Resourceful: 
+**Resourceful:**
 
 We are creative thinkers who take the initiative to maximize our impact.
 
-**Collaborative:
+**Collaborative:**
 
 We foster a respectful environment and enjoy working together because we believe that
 yields the best possible outcomes.
 
-**Continuously Improving:
+**Continuously Improving:**
 
 We reflect on what we have achieved in order to adapt, grow and reach higher
 standards.
 
-**Optimistic:
+**Optimistic:**
 
 We see challenges as opportunities for change.
 
@@ -190,7 +190,7 @@ Third Street Music School Settlement
 # Press
 
 
-**New Space Will Boost Teacher Morale at Grant Avenue School
+**New Space Will Boost Teacher Morale at Grant Avenue School**
 
 https://www.bxtimes.com/stories/2017/51/51-grantaveschool-2017-12-22-bx.html
 
@@ -200,7 +200,7 @@ December 2017
 
 
 
-**Schoolchildren Praised for Reading Over the Summer
+**Schoolchildren Praised for Reading Over the Summer**
 
 http://www.fox5ny.com/news/212114477-story
 
@@ -210,7 +210,7 @@ October 17, 2016
 
 
 
-**101 Charities to Donate to This Season
+**101 Charities to Donate to This Season**
 
 http://nymag.com/thecut/2015/12/101-charities-to-donate-to-this-holiday-season.html
 
@@ -220,7 +220,7 @@ December 2, 2015
 
 
 
-**11-Year-Old Brooklyn Boy Dreams Big Thanks to Change for Kids Organization
+**11-Year-Old Brooklyn Boy Dreams Big Thanks to Change for Kids Organization**
 
 http://www.people.com/article/change-for-kids-helps-nyc-public-schools
 
@@ -230,7 +230,7 @@ November 5, 2015
 
 
 
-**Louise Phillips Forbes and Colin Smith: Change for Kids - Empowering Kids
+**Louise Phillips Forbes and Colin Smith: Change for Kids - Empowering Kids**
 
 http://www.blogtalkradio.com/jo-anne-white/2015/08/19/louise-phillips-forbes-and-colin-smith-change-for-kids--empowering-kids
 
@@ -246,7 +246,7 @@ Medium.com
 August 2015
 
 
-**Charities Turn to Web to Get Cash
+**Charities Turn to Web to Get Cash**
 
 Crain's New York Business
 
@@ -257,7 +257,7 @@ get-cash
 October 20, 2014
 
 
-**A Change for Kids Fundraiser at SoulCycle Bridgehampton
+**A Change for Kids Fundraiser at SoulCycle Bridgehampton**
 
 http://online.wsj.com/articles/a-change-for-kids-fundraiser-at-soulcycle-bridgehampton-1404955297
 
@@ -266,7 +266,7 @@ The Wall Street Journal
 July 2014
 
 
-**MRY Redesigns Change for Kids Website
+**MRY Redesigns Change for Kids Website**
 
 http://www.digitaljournal.com/pr/1984187
 
@@ -275,7 +275,7 @@ Digital Journal
 June 2014
 
 
-**The Art of Adding Value: Variety New York’s High Touch, High Impact Philanthropic Model
+**The Art of Adding Value: Variety New York’s High Touch, High Impact Philanthropic Model**
 
 http://varietyny.org/news/the-art-of-adding-value?utm_source=March%202013%20Newsletter&utm_campaign=April%20Newsletter&utm_medium=email
 
@@ -284,7 +284,7 @@ Executive Director, Colin Smith participates in panel discussion marking the rel
 February 2013
 
 
-**A Change Agent for the City's Public Schools
+**A Change Agent for the City's Public Schools**
 
 http://www.crainsnewyork.com/article/20121130/BLOGS05/311309988
 
@@ -293,7 +293,7 @@ Crain's New York Business
 December 2012
 
 
-**The Giving Well: Change for Kids
+**The Giving Well: Change for Kids**
 
 https://www.flickr.com/photos/changeforkids/sets/72157628444051439
 
@@ -302,7 +302,7 @@ Modern Ink
 December 2011
 
 
-**Even Small Efforts Can Help Charities Find 'Coins Under the Cushions’
+**Even Small Efforts Can Help Charities Find 'Coins Under the Cushions’**
 
 https://www.changeforkids.org/sites/default/themes/cfk/assets/images/PDFs/Small-Nonprofit-Savings.pdf
 
@@ -311,7 +311,7 @@ Chronicle of Philanthropy
 February 2011
 
 
-**Change for Kids: Interview with Colin Smith
+**Change for Kids: Interview with Colin Smith**
 
 http://www.thejcconline.com/change-for-kids-interview-with-colin-smith/
 
@@ -739,15 +739,15 @@ To learn more about volunteer opportunities, contact our Director of Corporate E
 
 Change or kids is proud to be certified by Points of Light. As a Service Enterprise organization, we are equipped to leverage the time and talent of our volunteers to meet the mission of our organization.
 
-**Events
+**Events**
 
 Support Change for Kids by attending one of our signature events that are hosted throughout the year.
 
-**Volunteer
+**Volunteer**
 
 No matter how you take part, you'll help inspire young imaginations at Change for Kids partner schools.
 
-**Fundraise
+**Fundraise**
 
 Host your own fundraising campaign for Change for Kids and rally your family and friends to join you.
 
@@ -791,9 +791,10 @@ After a transaction, your private information (credit cards, social security num
 
 #### Do we use cookies?
 
-We do not use cookies.
+We do use cookies.
 
-Do we disclose any information to outside parties?
+#### Do we disclose any information to outside parties?
+
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 #### California Online Privacy Protection Act Compliance
