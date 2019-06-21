@@ -77,14 +77,10 @@ rgb 23.42.99
 
 ## HOME PAGE
 ## ##########
-Change For Kids of New York City (question to Tim – is this in here for some google keyword
-reason?)
+
+Change For Kids
 
 Our mission is to create opportunities for kids so they can overcome inequity.
-
-(INSERT BUTTON: CHANGE THE FUTURE – link to donate form)
-
-(SCROLL PAST clean home page)
 
 Change for Kids creates opportunities for kids in New York City public schools. We provide critical
 supports, experiences, and access so they can reimagine their possibilities and overcome inequity.
@@ -93,23 +89,23 @@ believe creating opportunities for young people allows them to see themselves wi
 through different lenses. And this affords them the tools to reimagine their own possibility and the tools
 with which to overcome inequity.
 
-The Change For Kids Model (these link to the deeper page)
+The Change For Kids Model
 Improving literacy, social-emotional learning, and community engagement is at the core of our model
 
-Partner Schools (these link to the deeper page)
+Partner Schools
 Have a collaborative school culture with a commitment to success
 
-School Managers (these link to the deeper page)
+School Managers
 Manage a mix of programs, resources and volunteers for maximum effect
 
-Programs (these link to the deeper page)
+Programs
 Bring a variety of educational, arts, and vocational opportunities for kids to reimagine possibilities and
 broaden horizons
 
-Supporters (these link to the deeper page)
+Supporters
 Provide funding and support that help us deliver and expand our impact
 
-Volunteers (these link to the deeper page)
+Volunteers
 Inspire our students and enrich our school communities
 
 
@@ -121,20 +117,25 @@ Our Change for Kids values act as a compass for how we work together across our 
 
 We are:
 
-Responsive: We understand and actively address the evolving needs of our diverse community.
+Responsive:
+We understand and actively address the evolving needs of our diverse community.
 
-Resourceful: We are creative thinkers who take the initiative to maximize our impact.
+Resourceful: 
+We are creative thinkers who take the initiative to maximize our impact.
 
-Collaborative: We foster a respectful environment and enjoy working together because we believe that
+Collaborative:
+We foster a respectful environment and enjoy working together because we believe that
 yields the best possible outcomes.
 
-Continuously Improving: We reflect on what we have achieved in order to adapt, grow and reach higher
+Continuously Improving:
+We reflect on what we have achieved in order to adapt, grow and reach higher
 standards.
 
-Optimistic: We see challenges as opportunities for change.
+Optimistic:
+We see challenges as opportunities for change.
 
 
-Culture at CFK
+##Culture at CFK
 
 With a mission to create opportunities for kids so they can overcome inequity, it’s critical for Change for
 Kids to be a place where our purpose and our practices are consistently hand-in-hand. We believe the
@@ -161,7 +162,10 @@ community support; and custom programming.
 
 Our Partners
 
+
+
 Strategic Partners
+
 
 Apollo Global Management
 
@@ -179,6 +183,8 @@ Labaton Sucharow LLP
 
 etc
 
+
+
 Program Partners
 
 Chess NYC
@@ -192,7 +198,9 @@ Story Pirates
 Third Street Music School Settlement
 
 
+
 Press
+
 
 New Space Will Boost Teacher Morale at Grant Avenue School
 
@@ -202,6 +210,8 @@ The Bronx Times
 
 December 2017
 
+
+
 Schoolchildren Praised for Reading Over the Summer
 
 http://www.fox5ny.com/news/212114477-story
@@ -209,6 +219,8 @@ http://www.fox5ny.com/news/212114477-story
 FOX 5 News
 
 October 17, 2016
+
+
 
 101 Charities to Donate to This Season
 
@@ -218,6 +230,8 @@ New York Magazine
 
 December 2, 2015
 
+
+
 11-Year-Old Brooklyn Boy Dreams Big Thanks to Change for Kids Organization
 
 http://www.people.com/article/change-for-kids-helps-nyc-public-schools
@@ -226,11 +240,11 @@ People
 
 November 5, 2015
 
+
+
 Louise Phillips Forbes and Colin Smith: Change for Kids - Empowering Kids
 
-http://www.blogtalkradio.com/jo-anne-white/2015/08/19/louise-phillips-forbes-and-colin-smith-
-
-change-for-kids--empowering-kids
+http://www.blogtalkradio.com/jo-anne-white/2015/08/19/louise-phillips-forbes-and-colin-smith-change-for-kids--empowering-kids
 
 Transforming NYC Low Income Schools
 
@@ -238,9 +252,11 @@ Power Your Life
 
 August 2015
 
+
 Medium.com
 
 August 2015
+
 
 Charities Turn to Web to Get Cash
 
@@ -252,6 +268,7 @@ get-cash
 
 October 20, 2014
 
+
 A Change for Kids Fundraiser at SoulCycle Bridgehampton
 
 http://online.wsj.com/articles/a-change-for-kids-fundraiser-at-soulcycle-bridgehampton-1404955297
@@ -259,6 +276,7 @@ http://online.wsj.com/articles/a-change-for-kids-fundraiser-at-soulcycle-bridgeh
 The Wall Street Journal
 
 July 2014
+
 
 MRY Redesigns Change for Kids Website
 
@@ -268,6 +286,7 @@ Digital Journal
 
 June 2014
 
+
 The Art of Adding Value: Variety New York’s High Touch, High Impact Philanthropic Model
 
 http://varietyny.org/news/the-art-of-adding-value?utm_source=March%202013%20Newsletter&utm_campaign=April%20Newsletter&utm_medium=email
@@ -275,6 +294,7 @@ http://varietyny.org/news/the-art-of-adding-value?utm_source=March%202013%20News
 Executive Director, Colin Smith participates in panel discussion marking the release of the white paper
 
 February 2013
+
 
 A Change Agent for the City's Public Schools
 
@@ -284,6 +304,7 @@ Crain's New York Business
 
 December 2012
 
+
 The Giving Well: Change for Kids
 
 https://www.flickr.com/photos/changeforkids/sets/72157628444051439
@@ -292,12 +313,15 @@ Modern Ink
 
 December 2011
 
+
 Even Small Efforts Can Help Charities Find 'Coins Under the Cushions’
 
 https://www.changeforkids.org/sites/default/themes/cfk/assets/images/PDFs/Small-Nonprofit-Savings.pdf
 
 Chronicle of Philanthropy
+
 February 2011
+
 
 Change for Kids: Interview with Colin Smith
 
@@ -307,11 +331,16 @@ The Journal of Cultural Conversation
 
 April 2010
 
+
+
 The Team
+
 
 Meet the people whose passion, creativity and commitment make a difference for our partner schools.
 
+
 Staff
+
 
 Kevin Ervin
 
@@ -552,6 +581,7 @@ Santiago Rivera
 Julia Schmidt
 
 Kaitlyn Sullivan
+
 
 
 ## Our Schools
