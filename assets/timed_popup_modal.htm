@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Timed Popup Modal</title>
+</head>
+<body>
+
+<!-- copy & paste everything between the <body> tags into an HTML Block inside of Concrete5 editor view -->
+
+<style>
+/*msg*/
+
+.vmiddle {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#msg {
+  z-index: 10001;
+  position: fixed;
+  top: 100px;
+  bottom: 100px;
+  left: 25px;
+  right: 25px;
+  color: #FFFFFF;
+  background: #00afbf;
+  border-color:#e7493e;
+  border-radius: 5px;
+  padding: 25px;
+  box-shadow: 5px 5px #ffbd4c;
+  vertical-align: top;
+  opacity: 0.95;
+  overflow: auto;
+}
+
+.close { 
+  float: right;
+  font-size: 2.3em;
+  cursor: pointer;
+  color: #FFF;
+}
+
+}
+.msg {
+    display: block;
+    color: #FFF;
+    margin-top: 20px;
+    line-height: 1;
+}
+
+#msg img { 
+  display: block; 
+  margin-left: auto;
+  margin-right: auto; 
+  max-width: 20%;
+  padding-bottom: 15px;
+}
+
+#msg img span strong button {
+    padding: 25px;
+}
+
+.close 
+</style>
+
+<div id="msg">
+<span class="close">&times;</span>
+<span class="vmiddle">
+    <center>
+    <img src="https://test.changeforkids.org/application/files/3515/6106/0973/sm-white-icon-256.png" alt="Change For Kids" />
+  <p><span>Our mission is to create opportunities for kids so they can overcome inequity.</span></p>
+  <form method="get" action="/index.php/donate">
+    <button class="dbtn orange">
+    <span>
+          CHANGE THE FUTURE
+    </span>
+    </button>
+    </form>
+    </center>
+</span>
+</div>
+
+<script>
+    $('document').ready(function () {
+    var $msg = $('#msg');
+    var displayTime = 0.5; // in minutes 0.1 = 6 seconds / 1 = 1 min.
+    var flag = true;
+    
+    $msg.hide();
+
+    setTimeout(
+
+    function () {
+        var inAnimation = 'fadeIn animated';
+        //console.log(flag);
+        $msg.show(inAnimation);
+    }, displayTime * 1000 * 60); // 60 normally
+});
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  msg.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == $msg) {
+    //msg.style.display = "none";
+    $msg.hide()
+  }
+}
+
+funtion(exit)
+</script>
+
+<!-- stop copy & pasting here. these comments may be left in or taken out. -->
+
+</body>
+
+</html>
