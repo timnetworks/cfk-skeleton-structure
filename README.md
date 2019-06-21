@@ -1,5 +1,5 @@
 # Change for Kids Website Heirarchial Structure
-## Design: May 2019
+### Design: June 2019
 -----
 
 ### COLORSET
@@ -106,49 +106,53 @@ Inspire our students and enrich our school communities
 
 Our Change for Kids values act as a compass for how we work together across our entire community.
 
-We are:
+##### We are:
 
-Responsive:
+**Responsive:
+
 We understand and actively address the evolving needs of our diverse community.
 
-Resourceful: 
+**Resourceful: 
+
 We are creative thinkers who take the initiative to maximize our impact.
 
-Collaborative:
+**Collaborative:
+
 We foster a respectful environment and enjoy working together because we believe that
 yields the best possible outcomes.
 
-Continuously Improving:
+**Continuously Improving:
+
 We reflect on what we have achieved in order to adapt, grow and reach higher
 standards.
 
-Optimistic:
+**Optimistic:
+
 We see challenges as opportunities for change.
 
 
-##Culture at CFK
+### Culture at CFK
 
 With a mission to create opportunities for kids so they can overcome inequity, it’s critical for Change for Kids to be a place where our purpose and our practices are consistently hand-in-hand. We believe the future depends on it. That’s why our culture is defined primarily by being youthful, vibrant, inclusive, and committed to real change for kids. At CFK, we are do-ers who are team players; we’re curious, thoughtful, deliberate, passionate, and determined. While we work hard, we are colleagues who care
 for each other and make each other laugh every day. We invite you to come have fun with us.
 
 
-Our People
+#### Our People
 
 (We are editing this and will send at a later date)
 
 
-Our Model
+##### Our Model
 
 The Change for Kids community works together to allow young people to see themselves in the future
 with unlimited options .
 
 CFK School Managers, in partnership with principals, teachers, and CFK leadership, identify the needs of each CFK partner school. Together, we provide and manage a mix of resources, including leadership support; academic enrichment and engagement programs; volunteers; corporate sponsors; school community support; and custom programming.
 
-Our Partners
 
+# Our Partners
 
-
-Strategic Partners
+### Strategic Partners
 
 
 Apollo Global Management
@@ -169,7 +173,7 @@ etc
 
 
 
-Program Partners
+### Program Partners
 
 Chess NYC
 
@@ -183,10 +187,10 @@ Third Street Music School Settlement
 
 
 
-Press
+# Press
 
 
-New Space Will Boost Teacher Morale at Grant Avenue School
+**New Space Will Boost Teacher Morale at Grant Avenue School
 
 https://www.bxtimes.com/stories/2017/51/51-grantaveschool-2017-12-22-bx.html
 
@@ -196,7 +200,7 @@ December 2017
 
 
 
-Schoolchildren Praised for Reading Over the Summer
+**Schoolchildren Praised for Reading Over the Summer
 
 http://www.fox5ny.com/news/212114477-story
 
@@ -206,7 +210,7 @@ October 17, 2016
 
 
 
-101 Charities to Donate to This Season
+**101 Charities to Donate to This Season
 
 http://nymag.com/thecut/2015/12/101-charities-to-donate-to-this-holiday-season.html
 
@@ -216,7 +220,7 @@ December 2, 2015
 
 
 
-11-Year-Old Brooklyn Boy Dreams Big Thanks to Change for Kids Organization
+**11-Year-Old Brooklyn Boy Dreams Big Thanks to Change for Kids Organization
 
 http://www.people.com/article/change-for-kids-helps-nyc-public-schools
 
@@ -226,7 +230,7 @@ November 5, 2015
 
 
 
-Louise Phillips Forbes and Colin Smith: Change for Kids - Empowering Kids
+**Louise Phillips Forbes and Colin Smith: Change for Kids - Empowering Kids
 
 http://www.blogtalkradio.com/jo-anne-white/2015/08/19/louise-phillips-forbes-and-colin-smith-change-for-kids--empowering-kids
 
@@ -242,7 +246,7 @@ Medium.com
 August 2015
 
 
-Charities Turn to Web to Get Cash
+**Charities Turn to Web to Get Cash
 
 Crain's New York Business
 
@@ -253,7 +257,7 @@ get-cash
 October 20, 2014
 
 
-A Change for Kids Fundraiser at SoulCycle Bridgehampton
+**A Change for Kids Fundraiser at SoulCycle Bridgehampton
 
 http://online.wsj.com/articles/a-change-for-kids-fundraiser-at-soulcycle-bridgehampton-1404955297
 
@@ -262,7 +266,7 @@ The Wall Street Journal
 July 2014
 
 
-MRY Redesigns Change for Kids Website
+**MRY Redesigns Change for Kids Website
 
 http://www.digitaljournal.com/pr/1984187
 
@@ -271,7 +275,7 @@ Digital Journal
 June 2014
 
 
-The Art of Adding Value: Variety New York’s High Touch, High Impact Philanthropic Model
+**The Art of Adding Value: Variety New York’s High Touch, High Impact Philanthropic Model
 
 http://varietyny.org/news/the-art-of-adding-value?utm_source=March%202013%20Newsletter&utm_campaign=April%20Newsletter&utm_medium=email
 
@@ -280,7 +284,7 @@ Executive Director, Colin Smith participates in panel discussion marking the rel
 February 2013
 
 
-A Change Agent for the City's Public Schools
+**A Change Agent for the City's Public Schools
 
 http://www.crainsnewyork.com/article/20121130/BLOGS05/311309988
 
@@ -289,7 +293,7 @@ Crain's New York Business
 December 2012
 
 
-The Giving Well: Change for Kids
+**The Giving Well: Change for Kids
 
 https://www.flickr.com/photos/changeforkids/sets/72157628444051439
 
@@ -298,7 +302,7 @@ Modern Ink
 December 2011
 
 
-Even Small Efforts Can Help Charities Find 'Coins Under the Cushions’
+**Even Small Efforts Can Help Charities Find 'Coins Under the Cushions’
 
 https://www.changeforkids.org/sites/default/themes/cfk/assets/images/PDFs/Small-Nonprofit-Savings.pdf
 
@@ -307,7 +311,7 @@ Chronicle of Philanthropy
 February 2011
 
 
-Change for Kids: Interview with Colin Smith
+**Change for Kids: Interview with Colin Smith
 
 http://www.thejcconline.com/change-for-kids-interview-with-colin-smith/
 
@@ -317,13 +321,13 @@ April 2010
 
 
 
-The Team
+# The Team
 
 
-Meet the people whose passion, creativity and commitment make a difference for our partner schools.
+##### Meet the people whose passion, creativity and commitment make a difference for our partner schools.
 
 
-Staff
+### Staff
 
 
 Kevin Ervin
@@ -574,7 +578,7 @@ Kaitlyn Sullivan
 
 Change for Kids partners with 13 schools across the five boroughs reaching almost 5,000 students. We provide and manage a mix of resources, including leadership support for principals, teachers, parents, and other school leaders; academic enrichment and engagement programs; volunteers; corporate sponsors; school community support; custom CFK programming designed to fill the gaps identified by our partner schools; and meaningful volunteer opportunities for individuals, public and private organizations, and college/university students.
 
-Brighter Choice Community School
+### Brighter Choice Community School
 
 BCCS
 
@@ -586,7 +590,7 @@ SCHOOL STATEMENT
 
 (address for under map) 280 Hart Street Brooklyn NY 11206
 
-Brooklyn Landmark Elementary School
+### Brooklyn Landmark Elementary School
 
 BLES
 
@@ -598,7 +602,7 @@ SCHOOL STATEMENT
 
 (address for under map) 251 MacDougal Street Brooklyn, NY 11233
 
-Grant Avenue Elementary School
+### Grant Avenue Elementary School
 
 Principal: Kristin Erat
 
@@ -608,7 +612,7 @@ SCHOOL STATEMENT
 
 (address for under map) 250 East 164th Street Bronx, NY 10456
 
-P.S. 6X
+### P.S. 6X
 
 The Lighthouse School
 
@@ -620,7 +624,7 @@ SCHOOL STATEMENT
 
 (address for under map) 1000 E. Tremont Avenue, Bronx, NY, 10460
 
-P.S. 15
+### P.S. 15
 
 The Roberto Clemente School
 
@@ -632,7 +636,7 @@ SCHOOL STATEMENT
 
 (address for under map) 333 East 4th Street, New York, NY 10009
 
-P.S. 21
+### P.S. 21
 
 Principal: Anthony Cosentino
 
@@ -642,7 +646,7 @@ SCHOOL STATEMENT
 
 (address for under map) 168 Hooker Place, Staten Island, NY 10302
 
-P.S. 81
+###P.S. 81
 
 Thaddeus Stevens Elementary School
 
@@ -654,7 +658,7 @@ SCHOOL STATEMENT
 
 (address for under map) 990 DeKalb Avenue, Brooklyn, NY 11221
 
-P.S. 142
+### P.S. 142
 
 The Amelia Castro School
 
@@ -666,7 +670,7 @@ SCHOOL STATEMENT
 
 (address for under map) 100 Attorney Street, NYC, NY 10002
 
-P.S. 160
+### P.S. 160
 
 Walter Francis Bishop School Magnet School of the Arts
 
@@ -678,7 +682,7 @@ SCHOOL STATEMENT
 
 (address for under map) 109-59 Inwood St. Queens, NY 11435
 
-P.S. 277
+### P.S. 277
 
 Principal: Natasha Bracey Ferguson
 
@@ -688,7 +692,7 @@ SCHOOL STATEMENT
 
 (address for under map) 519 St. Anns Ave. Bronx, NY 10455
 
-P.S. 314
+### P.S. 314
 
 The Fairmont Neighborhood School
 
@@ -700,7 +704,7 @@ SCHOOL STATEMENT
 
 (address for under map) 519 St. Anns Ave. Bronx, NY 10455
 
-P.S. 329
+### P.S. 329
 
 The Surfside School
 
@@ -714,7 +718,7 @@ PS 329's greatest strength is their commitment to creating and sustaining a scho
 
 Thurgood Marshall Academy Lower School
 
-TMALS
+### TMALS
 
 Principal: Dawn Brooks DeCosta
 
@@ -724,7 +728,8 @@ SCHOOL STATEMENT
 
 (address for under map) 282 West 151 Street, New York, NY 10039
 
-Help Create Change for Kids
+
+## Help Create Change for Kids
 
 Whether you volunteer, fundraise, or attend an event to benefit Change for Kids, you are making a difference in the lives of almost 5,000 students throughout NYC.
 
@@ -734,47 +739,49 @@ To learn more about volunteer opportunities, contact our Director of Corporate E
 
 Change or kids is proud to be certified by Points of Light. As a Service Enterprise organization, we are equipped to leverage the time and talent of our volunteers to meet the mission of our organization.
 
-Events
+**Events
 
 Support Change for Kids by attending one of our signature events that are hosted throughout the year.
 
-Volunteer
+**Volunteer
 
 No matter how you take part, you'll help inspire young imaginations at Change for Kids partner schools.
 
-Fundraise
+**Fundraise
 
 Host your own fundraising campaign for Change for Kids and rally your family and friends to join you.
+
 
 # DONATE PAGE
 
 Help us transform public elementary school education in low-income communities and set thousands of NYC students on the path to a bright future. For more information about sponsoring a Change for Kids partner school, or to make a donation of stock, please contact Karen Epstein, Executive Director, at kepstein@changeforkids.org.
 
-[DONATION FORM]
+-[x] Donation Form
 
-## PRIVACY POLICY
-## ##############
 
-Privacy Policy
-What information do we collect?
+# PRIVACY POLICY
+
+## Privacy Policy
+
+#### What information do we collect?
 
 We collect information from you when you subscribe to our newsletter, fill out a form or submit a donation.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-What do we use your information for?
+#### What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
-To process transactions
+##### To process transactions:
 
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-To send periodic emails
+##### To send periodic emails:
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-How do we protect your information?
+#### How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
@@ -782,26 +789,26 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-Do we use cookies?
+#### Do we use cookies?
 
 We do not use cookies.
 
 Do we disclose any information to outside parties?
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-California Online Privacy Protection Act Compliance
+#### California Online Privacy Protection Act Compliance
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-Childrens Online Privacy Protection Act Compliance
+#### Childrens Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Online Privacy Policy Only
+#### Online Privacy Policy Only
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-Your Consent
+#### Your Consent
 
 By using our site, you consent to our web site privacy policy.
 
