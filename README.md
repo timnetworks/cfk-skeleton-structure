@@ -14,12 +14,14 @@ COLOR | Red | Teal | Purple | Yellow | Green | Navy Blue
 
 # HOME PAGE
 
-### Change For Kids
+![Change For Kids](https://test.changeforkids.org/application/files/9015/5975/3238/logo.png)
 
 ##### Our mission is to create opportunities for kids so they can overcome inequity.
 
 Change for Kids creates opportunities for kids in New York City public schools. We provide critical supports, experiences, and access so they can reimagine their possibilities and overcome inequity. We believe opportunities create options. We believe that one can’t dream what one has not seen. We believe creating opportunities for young people allows them to see themselves with different options, through different lenses. And this affords them the tools to reimagine their own possibility and the tools
 with which to overcome inequity.
+
+![Together we can bridge the opportunity gap.](https://test.changeforkids.org/application/files/7415/5974/7261/indexsm.png)
 
 ##### The Change For Kids Model
 Improving literacy, social-emotional learning, and community engagement is at the core of our model
