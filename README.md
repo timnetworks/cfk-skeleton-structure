@@ -21,7 +21,6 @@ COLOR | Red | Teal | Purple | Yellow | Green | Navy Blue
 Change for Kids creates opportunities for kids in New York City public schools. We provide critical supports, experiences, and access so they can reimagine their possibilities and overcome inequity. We believe opportunities create options. We believe that one can’t dream what one has not seen. We believe creating opportunities for young people allows them to see themselves with different options, through different lenses. And this affords them the tools to reimagine their own possibility and the tools
 with which to overcome inequity.
 
-![Together we can bridge the opportunity gap.](https://test.changeforkids.org/application/files/7415/5974/7261/indexsm.png)
 
 ##### The Change For Kids Model
 Improving literacy, social-emotional learning, and community engagement is at the core of our model
@@ -98,19 +97,19 @@ CFK School Managers, in partnership with principals, teachers, and CFK leadershi
 ### Strategic Partners
 
 
-Apollo Global Management
+* Apollo Global Management
 
-B Floral
+* B Floral
 
-The Catalog for Giving of New York City
+* The Catalog for Giving of New York City
 
-Davis & Gilbert LLP
+* Davis & Gilbert LLP
 
-HarperCollins Publishers
+* HarperCollins Publishers
 
-Himan Brown Charitable Trust
+* Himan Brown Charitable Trust
 
-Labaton Sucharow LLP
+* Labaton Sucharow LLP
 
 etc
 
@@ -118,15 +117,15 @@ etc
 
 ### Program Partners
 
-Chess NYC
+* Chess NYC
 
-City Parks Foundation
+* City Parks Foundation
 
-Children’s Museum of the Arts
+* Children’s Museum of the Arts
 
-Story Pirates
+* Story Pirates
 
-Third Street Music School Settlement
+* Third Street Music School Settlement
 
 
 
