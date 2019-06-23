@@ -16,9 +16,13 @@ COLOR | Red | Teal | Purple | Yellow | Green | Navy Blue
 
 * Home Page
   * About Us
-    * Section One
-    * Section Two
-    * Section Three
+    * Values
+    * Culture
+    * Staff
+      * Executive
+      * Management
+      * Volunteers
+      * Board
   * Our Work
     * Section One    
     * Section Two
