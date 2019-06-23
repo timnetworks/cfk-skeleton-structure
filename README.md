@@ -12,6 +12,32 @@ COLOR | Red | Teal | Purple | Yellow | Green | Navy Blue
 *RGB* | 231.73.62 | 0.175.191 | 140.83.155 | 255.189.76 | 195.215.86 | 23.42.99
 
 
+### NAVIGATION
+
+* Home Page
+  * About Us
+    * Section One
+    * Section Two
+    * Section Three
+  * Our Work
+    * Section One    
+    * Section Two
+    * Section Three
+  * Take Action
+    * Section One    
+    * Section Two
+      * Subsection One
+      * Subsection Two
+    * Section Three
+  * News
+    * Section One    
+    * Section Two
+    * Section Three
+  * Donate
+  * Privacy Policy
+  * Terms of Service
+
+
 # HOME PAGE
 
 ![Change For Kids](https://test.changeforkids.org/application/files/9015/5975/3238/logo.png)
