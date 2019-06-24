@@ -16,28 +16,30 @@ COLOR | Red | Teal | Purple | Yellow | Green | Navy Blue
 
 * Home Page
   * About Us
-    * Values
-    * Culture
-    * Staff
-      * Executive
-      * Management
-      * Volunteers
-      * Board
+    * What We Do
+    * Mission and Purpose
+    * Values and Culture
+    * People
+    * Join Our Team
+    * Financials
+    * 25 Years of Change
   * Our Work
-    * Section One    
-    * Section Two
-    * Section Three
+    * The CFK Model    
+    * Programs
+    * Schools
+    * Impact
+    * Imperative for Change
   * Take Action
-    * Section One    
-    * Section Two
-      * Subsection One
-      * Subsection Two
-    * Section Three
-  * News
-    * Section One    
-    * Section Two
-    * Section Three
-  * Donate
+    * Ways to Give    
+    * Volunteer
+    * Events
+    * Partners
+    * Contact Us
+  * Resources
+    * Social Media
+    * In The News
+    * The CFK Blog
+  * (Donate)
   * Privacy Policy
   * Terms of Service
 
@@ -76,7 +78,7 @@ Inspire our students and enrich our school communities
 
 ### Our Values and Culture
 
-Our Change for Kids values act as a compass for how we work together across our entire community.
+Our Change for Kids values act as a compass for how we work together across our entire community. We are:
 
 ##### We are:
 
@@ -109,438 +111,199 @@ With a mission to create opportunities for kids so they can overcome inequity, i
 for each other and make each other laugh every day. We invite you to come have fun with us.
 
 
-#### Our People
+#### People
 
 (We are editing this and will send at a later date)
 
+Meet the people whose passion, creativity, and commitment make a difference for our partner schools.
 
-##### Our Model
 
-The Change for Kids community works together to allow young people to see themselves in the future
-with unlimited options .
+##### Staff
 
-CFK School Managers, in partnership with principals, teachers, and CFK leadership, identify the needs of each CFK partner school. Together, we provide and manage a mix of resources, including leadership support; academic enrichment and engagement programs; volunteers; corporate sponsors; school community support; and custom programming.
 
+- Kevin Ervin
+  - Executive Director
 
-# Our Partners
+- Zareta Ricks
+  - Senior Director of Programming & Innovation 
 
-### Strategic Partners
+- Rebecca Bachman
+  - Associate Director of Development and Events
 
+- Nicole Favard
+  - Associate Director of School Management
 
-* Apollo Global Management
+- Monica Trausch
+  - Operations Manager
 
-* B Floral
+- Adrian Wright
+  - Communications & Special Projects Associate
 
-* The Catalog for Giving of New York City
+- Yvette Mosely
+  - School Manager
 
-* Davis & Gilbert LLP
+- Shanise Alleyne
+  - School Manager
 
-* HarperCollins Publishers
+- Donna Newton
+  - Director of Communications
 
-* Himan Brown Charitable Trust
+- Marissa Jones
+  - Chief of Staff
 
-* Labaton Sucharow LLP
+- Mesha Allen
+  - Volunteer Coordinator
 
-etc
 
+##### Board of Directors
 
 
-### Program Partners
+- Natalie Auerbach
+  - Chair
+- Lisa Bernstein
+  - Vice-Chair
+- Sara Hinkle
+  - Vice-Chair
+- Kristin Black
+  - Secretary
+- Terrence McLean
+  - Treasurer
+- Zach Barratt
+  - Fundraising Committee Co-Chair
+- Kevin Hammond
+  - Fundraising Committee Co-Chair
+- Karen Epstein
+  - Governance Chair
+- Robin Davson
+  - Programs Committee Chair
+- Julia Bechtolsheimer
+- Maya Burgos
+- Laura Farah
+- Florence Faucon
+- Louise Phillips Forbes
+- Peter Herzberg
+- Nicolas Koechlin
+- Ed Napper
+- Bronwen Smith
+- Colin Smith
+- Sheila Spence
+- Drew Skelton
 
-* Chess NYC
 
-* City Parks Foundation
+##### Board of Advisors
 
-* Children’s Museum of the Arts
+- Ethan Auerbach
+- Rich Canning
+- Ryan Hinkle
+- Lisa Kalhans
+- Niklas Kloepfer
+- Joseph Tansey
+- Jenn Wild
 
-* Story Pirates
 
-* Third Street Music School Settlement
+##### Advisory Council
 
+- Meredith Coburn
+- Harald Collet
+- Stacey Griffith
+- Steve Guerrini
+- Matt Krieg
+- Sarah Novatt
+- Noah Waisbrot
+- Whitney Wortman
 
-
-# Press
-
-
-**New Space Will Boost Teacher Morale at Grant Avenue School**
-
-https://www.bxtimes.com/stories/2017/51/51-grantaveschool-2017-12-22-bx.html
-
-The Bronx Times
-
-December 2017
-
-
-
-**Schoolchildren Praised for Reading Over the Summer**
-
-http://www.fox5ny.com/news/212114477-story
-
-FOX 5 News
-
-October 17, 2016
-
-
-
-**101 Charities to Donate to This Season**
-
-http://nymag.com/thecut/2015/12/101-charities-to-donate-to-this-holiday-season.html
-
-New York Magazine
-
-December 2, 2015
-
-
-
-**11-Year-Old Brooklyn Boy Dreams Big Thanks to Change for Kids Organization**
-
-http://www.people.com/article/change-for-kids-helps-nyc-public-schools
-
-People
-
-November 5, 2015
-
-
-
-**Louise Phillips Forbes and Colin Smith: Change for Kids - Empowering Kids**
-
-http://www.blogtalkradio.com/jo-anne-white/2015/08/19/louise-phillips-forbes-and-colin-smith-change-for-kids--empowering-kids
-
-Transforming NYC Low Income Schools
-
-Power Your Life
-
-August 2015
-
-
-Medium.com
-
-August 2015
-
-
-**Charities Turn to Web to Get Cash**
-
-Crain's New York Business
-
-http://www.crainsnewyork.com/article/20141021/NONPROFITS/310199999/charities-turn-to-web-to-
-
-get-cash
-
-October 20, 2014
-
-
-**A Change for Kids Fundraiser at SoulCycle Bridgehampton**
-
-http://online.wsj.com/articles/a-change-for-kids-fundraiser-at-soulcycle-bridgehampton-1404955297
-
-The Wall Street Journal
-
-July 2014
-
-
-**MRY Redesigns Change for Kids Website**
-
-http://www.digitaljournal.com/pr/1984187
-
-Digital Journal
-
-June 2014
-
-
-**The Art of Adding Value: Variety New York’s High Touch, High Impact Philanthropic Model**
-
-http://varietyny.org/news/the-art-of-adding-value?utm_source=March%202013%20Newsletter&utm_campaign=April%20Newsletter&utm_medium=email
-
-Executive Director, Colin Smith participates in panel discussion marking the release of the white paper
-
-February 2013
-
-
-**A Change Agent for the City's Public Schools**
-
-http://www.crainsnewyork.com/article/20121130/BLOGS05/311309988
-
-Crain's New York Business
-
-December 2012
-
-
-**The Giving Well: Change for Kids**
-
-https://www.flickr.com/photos/changeforkids/sets/72157628444051439
-
-Modern Ink
-
-December 2011
-
-
-**Even Small Efforts Can Help Charities Find 'Coins Under the Cushions’**
-
-https://www.changeforkids.org/sites/default/themes/cfk/assets/images/PDFs/Small-Nonprofit-Savings.pdf
-
-Chronicle of Philanthropy
-
-February 2011
-
-
-**Change for Kids: Interview with Colin Smith**
-
-http://www.thejcconline.com/change-for-kids-interview-with-colin-smith/
-
-The Journal of Cultural Conversation
-
-April 2010
-
-
-
-# The Team
-
-
-##### Meet the people whose passion, creativity and commitment make a difference for our partner schools.
-
-
-### Staff
-
-
-Kevin Ervin
-
-Executive Director
-
-Natalie Auerbach
-
-Managing Director, Development and Communications
-
-Zareta Ricks
-
-Director of Corporate Engagement and Strategies
-
-Rebecca Bachman
-
-Associate Director of Development and Events
-
-Nicole Favard
-
-Associate Director of School Management
-
-Monica Trausch
-
-Operations Manager
-
-Adrian Wright
-
-Communications & Special Projects Associate
-
-Greg Knight
-
-Alumni School Manager at Brooklyn Landmark, P.S. 81 and P.S. 277
-
-Yvette Mosely
-
-School Manager
-
-Shanise Alleyne
-
-School Manager
-
-Charlotte Bush
-
-School Manager
-
-Donna Newton
-
-Director of Communications
-
-Marissa Jones
-
-Business Development & Special Projects Manager
-
-Mesha Allen
-
-Volunteer Coordinator
-
-Board of Directors
-
-Nicolas Koechlin
-
-Chairman
-
-Kristin Black
-
-Vice Chair
-
-Sara Hinkle
-
-Vice Chair
-
-Terrence McLean
-
-Treasurer
-
-Natalie Auerbach
-
-Secretary
-
-Louise Phillips Forbes
-
-Co-Chair, Event Committee
-
-Kevin Hammond
-
-Chair, Development Committee
-
-Peter Herzberg
-
-Chair, Education Committee
-
-Bronwen Smith
-
-Co-Chair, Event Committee
-
-Zach Barratt
-
-Julia Bechtolsheimer
-
-Lisa Bernstein
-
-Maya Burgos
-
-Patrick Daly
-
-Karen Epstein
-
-Robin Davson
-
-Board Member
-
-Laura Farah
-
-Ronnie Jaber
-
-Maria Neary
-
-Colin Smith
-
-Sheila Spence
-
-Drew Skelton
-
-Board of Advisors
-
-Rich Canning
-
-Ryan Hinkle
-
-Lisa Kalhans
-
-Niklas Kloepfer
-
-Ed Napper
-
-Joseph Tansey
-
-Jenn Wild
-
-Ethan Auerbach
-
-Advisory Council
-
-Sarah Belz
-
-Meredith Coburn
-
-Harald Collet
-
-Stacey Griffith
-
-Steve Guerrini
-
-Matt Krieg
-
-Sarah Novatt
-
-Rima Reddy
-
-Noah Waisbrot
-
-Whitney Wortman
 
 Junior Board
 
-Amanda Downy
 
-Co-Chair
+- Marc Andrusko
+- Maya Bakhai
+- Sebastian Baquerizo
+- Samantha Bosin
+- Tamika Covington
+- Steven DiMilia
+- Minela Feratovic
+- Thomas Gunton
+- Nealy Hale
+- Meredith Hightower
+- Jordan Holand
+- Suraj Jain
+- Alex Kanter
+- Gregory Knight
+- Rebecca Mandel
+- Meghan McCarthy
+- Claire Molinaro
+- Rob Narayana
+- Hayley Orcutt
+- Santiago Quinones
+- Alexandria Ramos
+- Santiago Rivera
+- Cassie Rolinck
+- Julia Schmidtt
+- Hayley Vecchio
+- Chris Vecchio
 
-Suraj Jain
+##### Join Our Team
 
-Co-Chair
+If you're passionate about education, eager to help NYC elementary school students reimagine their possibilities and give them the tools necessary to overcome inequity, we'd love to get to know you.
 
-Cassie Rolnick
+# Financials
 
-Co-Chair, Events Committee
+# 25 Years of Change for Kids
 
-Claire Molinaro
+# The CFK Model
 
-Co-Chair, Marketing Committee
+The Change for Kids community works together to allow young people to see themselves in the future with unlimited options. CFK School Managers, in partnership with principals, teachers, and CFK leadership, identify the needs of each CFK partner school. Together, we provide and manage a mix of resources, including leadership support; academic enrichment and engagement programs; volunteers; corporate sponsors; school community support; and custom programming.
 
-Sarah Bullard
+# Programs
 
-Co-Chair, Membership Committee
+## Custom Programming
 
-Jake Lindsay
+### TALNT Academy 
+A new CFK initiative designed to intersect arts education with social-emotional learning (SEL). 
+TALNT brings arts instruction with an intentional social-emotional learning focus into schools to help students creatively channel their energy while being coached by working professionals in the arts. 
 
-Sarah Eaby
+### School Beautification
+CFK transform school environments from dreary to bright and functional for a real impact on student engagement. At our CFK School Beautification Days, we bring talented, recognized muralists into the schools to visually amplify the culture and mission of each school, and volunteers make spaces into inspiring learning environments where students love to learn.  
 
-Development Chair
+### De-escalation Rooms
+Our schools have asked for multi-sensory de-escalation rooms. De-escalation rooms give our students a space to de-escalate from an overly stressed or emotional state safely, reducing the chance of physical injury to themselves or others around them. Many of our students live in transitional housing, single-parent homes, or abusive environments. Families can struggle to fulfill their basic needs, such as food and shelter. Some schools have a high percentage of their student population diagnosed with learning and behavioral disabilities, who struggle with coping and self-regulation.  Add the stress of their daily existence - teachers being shot, parents being abused, parents whose energy must go towards self-preservation in lieu of consistent parenting.
+Our schools train staff members in de-escalation tactics to help a stressed student regain control and regulate their emotions.The goal is to teach the students to be able to do this on their own, and long-term, for the students to be able to signal to the teacher when they are approaching crisis mode and need a safe space to de-escalate.
 
-Christopher Vecchio
+### Reading Buddies
+Volunteers visit classrooms during literacy blocks to read aloud to a small group or full class, then engage them in a lively discussion about what they've read together.  These sessions provide students with additional opportunities to improve their comprehension skills, fire up their imaginations, and make text-to-self connections. Students are excited to see new faces in their classroom and love hearing a favorite story told by new people. 
 
-Governance Committee Chair
+### Graduating to Greatness
+The CFK Graduating to Greatness program is a critical part of preparing students for success beyond elementary school. A multi-year, multi-event series of workshops help students and their parents navigate the middle school application process. 
 
-Marc Andrusko
+### Resource Drives
+Our schools serve as a critical hub of their communities. One of the most fulfilling ways we partner with schools is bringing that community to life, especially during holidays, with meals, gifts, and winter clothing where it's needed. Based on the needs of the school, CFK engages its extended network to support specific needs of the school community. Drives can have ripple effects - a coat drive at one of our schools was the unlikely solution to increase attendance during the freezing winter months.
 
-Julianne DeMarco
+### Parent University
+Parent University is a series of workshops and activities for parents on how to support their children's learning while empowering them to pursue personal goals. CFK also provides volunteers during workshop times to facilitate activities for students to alleviate child care concerns so parents can focus.
 
-Hayley Orcutt
+### Financial Literacy
+Financial literacy is an important tool to introduce financial capability to our scholars, their parents or caregivers, and our school communities. CFK scholars are taught basic principles and practices on how to manage money - both at home and in school.
 
-Maya Bakhai
+### Experience NY
+CFK's Experience NY enrichment program enables students and their families to experience museums, Broadway and off-Broadway shows, dance recitals, music concerts, and corporate business offices.
 
-Hayley Vecchio
+## Additional Program Partners
 
-Sebastian Baquerizo
-
-Megan Benay
-
-Darryl Bolden
-
-Samantha Bosin
-
-Secretary
-
-Gabrielle Garcia
-
-Thomas Gunton
-
-Nealy Hale
-
-Event Committee Co-Chair
-
-Jordan Holand
-
-Meghan McCarthy
-
-Sourab Narayana
-
-Treasurer
-
-Alexandra Pirro
-
-Alexandria Ramos
-
-Santiago Rivera
-
-Julia Schmidt
-
-Kaitlyn Sullivan
+- Behind the Book
+- Chess NYC
+- City Parks Foundation
+- Department of Youth and Community Development 
+- Children's Museum of the Arts
+- Leap
+- New York State Council on the arts
+- NYC Department of Cultural Affairs
+- Robert Cornegy/District 36 
+- Salvadori Center
+- Story Pirates
+- Third Street Music School Settlement
+- Urban Golf Academy
+- Writopia Lab
 
 
 
@@ -701,15 +464,18 @@ SCHOOL STATEMENT
 (address for under map) 282 West 151 Street, New York, NY 10039
 
 
+# Impact
+
+The Change for Kids approach makes a positive impact on the lives of nearly 5,000 students at 13 partner schools in all five boroughs. With the help of supporters like you, Change for Kids raised $1.7 million this past year to combat educational inequity in New York City. This funded 57,833 programming hours and 115 volunteer events  thats over 4,700 volunteer hours dedicated to students. 80% of students in Change for Kids partner schools received new coats, winter accessories, or gifts during the 2018 holiday season.  With an equal focus on academics, social-emotional learning, and community engagement, CFK truly does make change for kids. 
+
+# Donate
+
 ## Help Create Change for Kids
 
-Whether you volunteer, fundraise, or attend an event to benefit Change for Kids, you are making a difference in the lives of almost 5,000 students throughout NYC.
+Whether you volunteer, fundraise, or attend an event to benefit Change for Kids, you'll help create opportunities for young people to see themselves with different options and reimagine their own possibilities.
 
-Check out a complete catalog of all our volunteer opportunities here. To learn more about corporate sponsorship opportunities, contact our Managing Director of Development and Communications, Natalie Auerbach.
+Change for Kids is proud to be certified by Points of Light. As a Service Enterprise organization, we are equipped to leverage the time and talent of our volunteers to meet the mission of our organization.
 
-To learn more about volunteer opportunities, contact our Director of Corporate Engagement and Strategy, Zareta Ricks.
-
-Change or kids is proud to be certified by Points of Light. As a Service Enterprise organization, we are equipped to leverage the time and talent of our volunteers to meet the mission of our organization.
 
 **Events**
 
@@ -717,18 +483,41 @@ Support Change for Kids by attending one of our signature events that are hosted
 
 **Volunteer**
 
-No matter how you take part, you'll help inspire young imaginations at Change for Kids partner schools.
+No matter how you take part, you'll help inspire young imaginations at Change for Kids partner schools. Check out a complete catalog of all our volunteer opportunities [here](#).
 
 **Fundraise**
 
-Host your own fundraising campaign for Change for Kids and rally your family and friends to join you.
+Host your own fundraising campaign for Change for Kids and rally your family and friends to you.
 
+Partners
 
-# DONATE PAGE
+Strategic Partners
 
-Help us transform public elementary school education in low-income communities and set thousands of NYC students on the path to a bright future. For more information about sponsoring a Change for Kids partner school, or to make a donation of stock, please contact Karen Epstein, Executive Director, at kepstein@changeforkids.org.
+- Apollo Global Management
+- B Floral
+- Blackstone
+- The Catalog for Giving of New York City
+- Davis & Gilbert LLP
+- Deloitte
+- HarperCollins Publishers
+- Himan Brown Charitable Trust
+- Labaton Sucharow LLP
+- Northern Trust
+- RBC Capital Markets
+- Salesforce
+- Unit Nutrition
+- Youth Inc. 
+
+## DONATE PAGE
+## ###########
+
+You can help Change for Kids create opportunities for all kids in New York City public schools with the critical supports, experiences, and access they need to reimagine their possibilities and overcome inequity.
+
+For more information about sponsoring a Change for Kids partner school, or to make a donation of stock, please contact Kevin Ervin, Executive Director, at kevin@changeforkids.org.
+
 
 - [x] Donation Form
+
 
 
 # PRIVACY POLICY
@@ -737,7 +526,7 @@ Help us transform public elementary school education in low-income communities a
 
 #### What information do we collect?
 
-We collect information from you when you subscribe to our newsletter, fill out a form or submit a donation.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+We collect information from you when you subscribe to our newsletter, fill out a form or submit a donation. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
 #### What do we use your information for?
 
