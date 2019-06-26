@@ -251,6 +251,25 @@ If you're passionate about education, eager to help NYC elementary school studen
 
 # 25 Years of Change for Kids
 
+Twenty-five years ago in 1994, Ted Madara, a “finance guy,” was at a bar and got into a discussion with a teacher who casually mentioned that each drink he ordered cost more than what was in the budget for her kids’ school supplies for a year. 
+
+Ted immediately realized this was something he could - and should - change. 
+
+He could help meet a basic need of kids in public schools. He saw that even small change could have a big impact, and encouraged the people in his network to donate their spare change to help purchase school supplies for a public school classroom. 
+
+### That’s how Change for Kids was founded.
+
+Receiving incredible support from his network, Madara eventually incorporated as a nonprofit in 1996, and partnered with four elementary schools in New York City. In one of the schools, the team discovered 30 violins in a closet. [Someone - WHO?] raised their hand to underwrite a teacher and curriculum, and suddenly 50 kids had music lessons. Today, 500 kids at four schools study music because of Change for Kids. 
+
+In 2008, in the midst of the stock market crash and facing serious economic challenges, funding for Change for Kids dropped drastically. Colin Smith, a member of the Change for Kids Board of Directors, stepped up to become the Executive Director, and led the organization through a mission restructure, as well as grew funding from $79,000 to $367,000 in the course of one year. 
+
+Over the course of the next few years, Change for Kids grew from a school-supply driven organization, to one with a strategic approach to partnership, with a focus on delivering targeted services, developing the role of the School Manager, and creating a vision for sustainability.  By 2017, CFK's budget had grown to approximately $2,000,000, with a robust staff of School Managers, Development & Communications professionals, and strong executive leadership. Our corporate partners have become Super Heroes to the 5,000 kids we serve together. For example, Gensler designers worked tirelessly to turn Grant Avenue Elementary School's “scary science room” into a beautiful collaboration space for teachers. Every Thanksgiving, RBC provides 40+ families with a bountiful Thanksgiving meal. This past year, Nordstrom provided 1,000 students with coats through our partnership with Operation Warm.
+
+Today, Kevin Ervin sits at the helm of Change for Kids.  A visionary leader hailing from Brooklyn, NY, Kevin has years of experience in youth development, and is fully committed to providing the critical supports, experiences, and access necessary so kids can reimagine their possibilities and overcome inequity. Under Kevin's leadership, Change for Kids is primed to direct our resources, efficiently and effectively, to meet the acute needs of potentially 492 schools.  
+
+Change for Kids can change the future. We’re so excited for what the next 25 years will hold.
+
+
 # The CFK Model
 
 The Change for Kids community works together to allow young people to see themselves in the future with unlimited options. CFK School Managers, in partnership with principals, teachers, and CFK leadership, identify the needs of each CFK partner school. Together, we provide and manage a mix of resources, including leadership support; academic enrichment and engagement programs; volunteers; corporate sponsors; school community support; and custom programming.
