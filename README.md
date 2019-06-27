@@ -12,12 +12,12 @@ COLOR | Red | Teal | Purple | Yellow | Green | Navy Blue
 *RGB* | 231.73.62 | 0.175.191 | 140.83.155 | 255.189.76 | 195.215.86 | 23.42.99
 
 
-### NAVIGATION
+### *NAVIGATION*
 
 * Home Page
   * About Us
-    * What We Do
-    * Mission and Purpose
+    * What We Do - two statements on whatever slider or whatever
+    * Mission and Purpose -  
     * Values and Culture
     * People
     * Join Our Team
@@ -123,6 +123,7 @@ Meet the people whose passion, creativity, and commitment make a difference for 
 
 - Kevin Ervin
   - Executive Director
+When the odds are stacked against you, you have three options: succumb, beat the odds,or change the odds in your favor. Kevin Ervin has always changed the odds. Hailing from Brooklyn, NY, Kevin has dedicated his life to leveling the playing field for those in under-resourced, under-served communities. Kevin spent his summers acquiring a love for learning and service at Camp Vacamas; from there grew a love of cultural exploration. Attending the Hotchkiss School, he combined his musical talents and leadership skills to bring together an entire school around hope and peace during9/11,one of America’s toughest moments. After graduating from The Hotchkiss School, he took time off to study music. 
 
 - Zareta Ricks
   - Senior Director of Programming & Innovation 
