@@ -123,34 +123,53 @@ Meet the people whose passion, creativity, and commitment make a difference for 
 
 - Kevin Ervin
   - Executive Director
-When the odds are stacked against you, you have three options: succumb, beat the odds,or change the odds in your favor. Kevin Ervin has always changed the odds. Hailing from Brooklyn, NY, Kevin has dedicated his life to leveling the playing field for those in under-resourced, under-served communities. Kevin spent his summers acquiring a love for learning and service at Camp Vacamas; from there grew a love of cultural exploration. Attending the Hotchkiss School, he combined his musical talents and leadership skills to bring together an entire school around hope and peace during9/11,one of America’s toughest moments. After graduating from The Hotchkiss School, he took time off to study music. 
+Kevin has dedicated his life to leveling the playing field for kids. He grew up in rough-and-tumble Brooklyn, won a prized opportunity to attend The Hotchkiss School, then studied music and discovered his passion for changing the lives of kids for the better while working with young people in the South Bronx. There, he grew the GLOW after-school initiative at the Vacamas Programs for Youth organization to serve students from 16 schools in the Bronx and New Jersey, earning leadership fellowships from the Center for Creative Leadership and Rutgers Institute of Ethical leadership for his efforts. Kevin went on to help Renaissance Youth Center win over $2 Million in funding from city grants within his first 6 months, allowing them to expand their youth development work. Kevin sharpened his education acumen within the New York City Department of Education where he strengthened operations and administration at Satellite Academy High School. An accomplished musician and music producer, Kevin holds a Bachelor of Science degree in Leadership from Northeastern University, and an Executive Masters in Public Administration from New York University. As Executive Director of Change for Kids, he has bolstered the vision and mission of the organization, and is leading the charge to create opportunities for kids so they can overcome inequity.
+
 
 - Zareta Ricks
   - Senior Director of Programming & Innovation 
+Previously the Director of Corporate Engagement and Strategies, and, prior to that, School Manager at Change for Kids, Zareta is thoroughly dedicated to building a community of trust and collaboration between our organization and school communities, students, and their families. Prior to working with CFK, she spent three years as the founding parent coordinator at a new elementary school in East New York, Brooklyn. Before that Department of Education role, Zareta worked in the fashion industry as a corporate Operations Manager. 
 
-- Rebecca Bachman
-  - Associate Director of Development and Events
-
-- Nicole Favard
-  - Associate Director of School Management
-
-- Monica Trausch
-  - Operations Manager
-
-- Adrian Wright
-  - Communications & Special Projects Associate
-
-- Yvette Mosely
-  - School Manager
-
-- Shanise Alleyne
-  - School Manager
-
-- Donna Newton
-  - Director of Communications
 
 - Marissa Jones
   - Chief of Staff
+Marissa has a history of working with youth in crisis as well as teens involved in the juvenile justice system, and has worked as a residential counselor in both New York and Massachusetts. She is a CFK “boomerang employee,” meaning she left the organization yet was compelled to return! Now in the role of Chief of Staff, she previously held Business Development & Special Projects Manager roles, and has lent her considerable expertise across every department. Prior to joining Change for Kids, Marissa worked in advertising sales at Yelp. She holds a Bachelor of Arts from Hampshire College, where she studied performance art, critical theory, and gender studies.
+
+
+- Rebecca Bachman
+  - Associate Director of Development and Events
+With the ever-present motivation to help others driving her, Rebecca’s career has been entirely focused on not-for-profit organizations making an important difference in the world. Prior to joining Change for Kids almost five years ago, Rebecca worked as the Grants and Operations Assistant at The Natan Fund, a giving circle foundation in NYC. Rebecca holds a B.A. from Brandeis University where she majored in sociology and education studies with a minor in Social Justice and Social Policy. She completed the Avodah Justice Fellowship in June 2018 and currently sits on the Brandeis Alumni Board as one of the National Young Alumni Co-chairs.
+
+
+- Nicole Favard
+  - Associate Director of School Management
+Before joining Change for Kids, Nicole previously worked at Graham Windham Services for Families and Children for more than seven years. During that time, she held several positions including Socio-Therapist, Behavioral Specialist, Case Planner, and Foster Parent Support Coordinator. Nicole taught at Hanover and Milestone School for Child Development, where she worked with both special and general education students. Nicole has a B.A. in Psychology from the College of New Rochelle and a dual Masters of General and Special Education; she also holds a number of certifications within child welfare.
+
+
+- Monica Trausch
+  - Operations Manager
+Prior to joining Change for Kids, Monica worked as an English teacher in Phnom Penh, Cambodia, as well as various roles within the non-profit theater and film industries. She is also a screenwriter and playwright whose work has been produced at many independent theaters in New York City and Los Angeles. She holds a BA from UC Santa Barbara and an MFA in Creative Writing from the Writer’s Foundry.
+
+
+- Adrian Wright
+  - Communications & Special Projects Associate
+Adrian is thrilled to be making use of his considerable communications and marketing skills to positively impact early child education in New York City communities. A New York City native, Adrian was the Director of Photography for Flight Club and managed social media for West Elm Chelsea prior to joining CFK. He attended BMCC and majored in Applied Science and Business Management.
+
+
+- Yvette Mosely
+  - School Manager
+Prior to joining Change for Kids, Yvette Mosley worked at Catholic Charities MOSAIC Beacon as an Outreach Coordinator and Leadership Development teacher for the teen program. She was a key contributor and advocate for the college readiness initiative while spearheading parent engagement workshops. She received a Bachelor’s Degree in Professional Studies & Human Services, and a Master’s Degree in Public Affairs & Administration from the Metropolitan College of New York. In addition, she has earned a number of certifications from the Department of Youth and Community Development.
+
+
+- Shanise Alleyne
+  - School Manager
+Before joining Change For Kids, Shanise worked for Millennium Development, a non-profit organization servicing youth through NYC Department of Youth & Community Development programs such as COMPASS and Cornerstone. She held several positions including Program Aid, Program Director, as well as Program Supervisor. Previously Shanise was in the role of Community School Director at a middle school in Staten Island. She holds a Bachelor's degree in Business Administration with a minor in Psychology, as well as a MBA, from the University of Bridgeport.
+  
+
+- Donna Newton
+  - Director of Communications
+Before joining Change for Kids, Donna spent several decades in the realms of marketing, advertising, and public relations as a new business director at several agencies, including Foote Cone & Belding, MediaCom, and DeVries Public Relations. Prior to that, she worked in the entertainment industry, initially as an independent casting director, then as the executive assistant/literary coordinator for theatre producer Richard Frankel. Donna is a co-chair of the women’s reproductive rights activist group WHARR. She is also a playwright/screenwriter; a parent; passionate about justice and fitness; a member of the Prospect Park Track Club; and a lifelong vegetarian.
+
 
 - Mesha Allen
   - Volunteer Coordinator
