@@ -170,10 +170,6 @@ Before joining Change For Kids, Shanise worked for Millennium Development, a non
 Before joining Change for Kids, Donna spent several decades in the realms of marketing, advertising, and public relations as a new business director at several agencies, including Foote Cone & Belding, MediaCom, and DeVries Public Relations. Prior to that, she worked in the entertainment industry, initially as an independent casting director, then as the executive assistant/literary coordinator for theatre producer Richard Frankel. Donna is a co-chair of the women’s reproductive rights activist group WHARR. She is also a playwright/screenwriter; a parent; passionate about justice and fitness; a member of the Prospect Park Track Club; and a lifelong vegetarian.
 
 
-- Mesha Allen
-  - Volunteer Coordinator
-
-
 ##### Board of Directors
 
 
