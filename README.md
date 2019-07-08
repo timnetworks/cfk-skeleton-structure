@@ -16,7 +16,7 @@ COLOR | Red | Teal | Purple | Yellow | Green | Navy Blue
 
 * Home Page
   * About Us
-    * What We Do - two statements on whatever slider or whatever
+    * What We Do - one statement on whatever slider or whatever
     * Mission and Purpose -  
     * Values and Culture
     * People
@@ -47,14 +47,15 @@ COLOR | Red | Teal | Purple | Yellow | Green | Navy Blue
 
 ![Change For Kids](https://test.changeforkids.org/application/files/9015/5975/3238/logo.png)
 
-##### Our mission is to create opportunities for kids so they can overcome inequity.
+##### Sign Up to receive CHANGE Magazine, our monthly newsletter.
 
-Change for Kids creates opportunities for kids in New York City public schools. We provide critical supports, experiences, and access so they can reimagine their possibilities and overcome inequity. We believe opportunities create options. We believe that one can’t dream what one has not seen. We believe creating opportunities for young people allows them to see themselves with different options, through different lenses. And this affords them the tools to reimagine their own possibility and the tools
-with which to overcome inequity.
+Change for Kids creates opportunities for kids in New York City public schools. 
+
+We provide critical supports, experiences, and access so they can reimagine their possibilities and overcome inequity. We believe opportunities create options. We believe that one can’t dream what one has not seen. We believe creating opportunities for young people allows them to see themselves with different options, through different lenses. And this affords them the tools to reimagine their own possibility and the tools with which to overcome inequity.
 
 
 ##### The Change For Kids Model
-Improving literacy, social-emotional learning, and community engagement is at the core of our model
+Improving literacy, social-emotional learning, and community engagement is at the core of our model.
 
 ##### Partner Schools
 Have a collaborative school culture with a commitment to success
@@ -72,12 +73,22 @@ Provide funding and support that help us deliver and expand our impact
 ##### Volunteers
 Inspire our students and enrich our school communities
 
+## TAKE ACTION
+
+Whether you donate, volunteer, fundraise, or attend an event to benefit Change for Kids, you'll help create opportunities for young people to see themselves with different options and reimagine their own possibilities.
+
+##### DONATE
+
+##### VOLUNTEER
+
+##### FUNDRAISE
+
 
 # ABOUT US
 
 ### Our Values and Culture
 
-Our Change for Kids values act as a compass for how we work together across our entire community. We are:
+Our Change for Kids values act as a compass for how we work together across our entire community. 
 
 ##### We are:
 
@@ -112,8 +123,6 @@ for each other and make each other laugh every day. We invite you to come have f
 
 #### People
 
-(We are editing this and will send at a later date)
-
 Meet the people whose passion, creativity, and commitment make a difference for our partner schools.
 
 
@@ -121,8 +130,7 @@ Meet the people whose passion, creativity, and commitment make a difference for 
 
 
 - Kevin Ervin
-  - Executive Director
-When the odds are stacked against you, you have three options: succumb, beat the odds,or change the odds in your favor. Kevin Ervin has always changed the odds. Hailing from Brooklyn, NY, Kevin has dedicated his life to leveling the playing field for those in under-resourced, under-served communities. Kevin spent his summers acquiring a love for learning and service at Camp Vacamas; from there grew a love of cultural exploration. Attending the Hotchkiss School, he combined his musical talents and leadership skills to bring together an entire school around hope and peace during9/11,one of America’s toughest moments. After graduating from The Hotchkiss School, he took time off to study music. 
+  - Executive Director 
 
 - Zareta Ricks
   - Senior Director of Programming & Innovation 
@@ -151,8 +159,8 @@ When the odds are stacked against you, you have three options: succumb, beat the
 - Marissa Jones
   - Chief of Staff
 
-- Mesha Allen
-  - Volunteer Coordinator
+- Darrell Dove
+  - Director of TALNT
 
 
 ##### Board of Directors
@@ -246,6 +254,8 @@ Junior Board
 ##### Join Our Team
 
 If you're passionate about education, eager to help NYC elementary school students reimagine their possibilities and give them the tools necessary to overcome inequity, we'd love to get to know you.
+
+Don't see anything right for you? Check back often; in the meantime, please consider volunteering. It's a great way to get to know us and our schools.
 
 # The CFK Model
 
@@ -422,7 +432,7 @@ Principal: Dawn Brooks DeCosta
 
 # Impact
 
-The Change for Kids approach makes a positive impact on the lives of nearly 5,000 students at 13 partner schools in all five boroughs. With the help of supporters like you, Change for Kids raised $1.7 million this past year to combat educational inequity in New York City. This funded 57,833 programming hours and 115 volunteer events  thats over 4,700 volunteer hours dedicated to students. 80% of students in Change for Kids partner schools received new coats, winter accessories, or gifts during the 2018 holiday season.  With an equal focus on academics, social-emotional learning, and community engagement, CFK truly does make change for kids. 
+The Change for Kids approach makes a positive impact on the lives of nearly 5,000 students at 13 partner schools in all five boroughs. With the help of supporters like you, Change for Kids raised $1.7 million this past year to combat educational inequity in New York City. This funded 57,833 programming hours and 115 volunteer events  thats over 4,700 volunteer hours dedicated to students. In addition, 80% of students in Change for Kids partner schools received new coats, winter accessories, or gifts during the 2018 holiday season.  With an equal focus on academics, social-emotional learning, and community engagement, CFK truly does make change for kids. 
 
 # 25 Years of Change for Kids
 
@@ -463,7 +473,7 @@ No matter how you take part, you'll help inspire young imaginations at Change fo
 
 **Fundraise**
 
-Host your own fundraising campaign for Change for Kids and rally your family and friends to you.
+Host your own fundraising campaign for Change for Kids and rally your family and friends to donate.
 
 ## Partners
 
