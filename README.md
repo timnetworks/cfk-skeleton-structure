@@ -473,7 +473,7 @@ Today, Kevin Ervin sits at the helm of Change for Kids.  A visionary leader hail
 
 Change for Kids can change the future. We’re so excited for what the next 25 years will hold.
 
-# Donate
+# TAKE ACTION
 
 ## Help Create Change for Kids
 
