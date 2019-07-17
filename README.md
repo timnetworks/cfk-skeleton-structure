@@ -343,6 +343,9 @@ Principal: Jeremy Daniel
 
 (address for under map) 280 Hart Street Brooklyn NY 11206
 
+https://www.welovebccs.org/
+
+
 ### Brooklyn Landmark Elementary School
 BLES
 
@@ -352,6 +355,9 @@ Principal: Joyce Knights
 
 (address for under map) 251 MacDougal Street Brooklyn, NY 11233
 
+http://www.brooklynlandmark.org/
+
+
 ### Grant Avenue Elementary School
 
 Principal: Kristin Erat
@@ -359,6 +365,9 @@ Principal: Kristin Erat
 “In the Grant Avenue school community, administration, teachers, parents, and students collaboratively create a safe, supportive, and trusting environment that promotes academic excellence and risk-taking so students’ possibilities for success are endless.”
 
 (address for under map) 250 East 164th Street Bronx, NY 10456
+
+http://www.grantavenueschool.com/
+
 
 ### P.S. 6X
 The Lighthouse School
@@ -369,6 +378,10 @@ Principal: Tiawana Perez
 
 (address for under map) 1000 E. Tremont Avenue, Bronx, NY, 10460
 
+https://www.ps6x.org/
+
+
+
 ### P.S. 15
 The Roberto Clemente School
 
@@ -378,6 +391,10 @@ Principal: Irene Sanchez
 
 (address for under map) 333 East 4th Street, New York, NY 10009
 
+https://ps15.org/
+
+
+
 ### P.S. 21
 
 Principal: Anthony Cosentino
@@ -386,7 +403,10 @@ Principal: Anthony Cosentino
 
 (address for under map) 168 Hooker Place, Staten Island, NY 10302
 
-###P.S. 81
+https://www.ps21statenisland.org/
+
+
+### P.S. 81
 Thaddeus Stevens Elementary School
 
 Principal: Cheryl Ault-Barker
@@ -394,6 +414,10 @@ Principal: Cheryl Ault-Barker
 " ‘Team Work Makes the Dream Work’ is this Bedford-Stuyvesant school’s motto. With a strong focus on literacy and continuous improvement, the school’s dedicated teachers, students, parents, and staff regularly go above and beyond to help each child reach their potential and expand their horizons.
 
 (address for under map) 990 DeKalb Avenue, Brooklyn, NY 11221
+
+https://tools.nycenet.edu/snapshot/2018/16K081/EMS/
+
+
 
 ### P.S. 142
 The Amelia Castro School
@@ -404,6 +428,9 @@ Principal: Daphna Gutman
 
 (address for under map) 100 Attorney Street, NYC, NY 10002
 
+https://www.ps142m.org/
+
+
 ### P.S. 160
 Walter Francis Bishop School Magnet School of the Arts
 
@@ -413,6 +440,9 @@ Principal: Tiffany Hicks
 
 (address for under map) 109-59 Inwood St. Queens, NY 11435
 
+http://www.ps160q.org/
+
+
 ### P.S. 277
 
 Principal: Natasha Bracey Ferguson
@@ -420,6 +450,9 @@ Principal: Natasha Bracey Ferguson
 "Dedicated to creating excellence in Mott Haven, the Bronx, the school sees their role as a learning community as building a sense of social responsibility, self-efficacy, and self-confidence to prepare students for college and future careers.”
 
 (address for under map) 519 St. Anns Ave. Bronx, NY 10455
+
+https://tools.nycenet.edu/snapshot/2018/07X277/EMS/
+
 
 ### P.S. 314
 The Fairmont Neighborhood School
@@ -430,6 +463,9 @@ Principal: Monique Hibbert
 
 (address for under map) 519 St. Anns Ave. Bronx, NY 10455
 
+https://www.schools.nyc.gov/schools/X314
+
+
 ### P.S. 329
 The Surfside School
 
@@ -439,6 +475,9 @@ PS 329's greatest strength is their commitment to creating and sustaining a scho
 
 (address for under map) 2929 West 30th Street, Brooklyn, New York 11224
 
+https://ny18000612.schoolwires.net/
+
+
 ### Thurgood Marshall Academy Lower School
 TMALS
 
@@ -447,6 +486,8 @@ Principal: Dawn Brooks DeCosta
 “The mission of TMALS is grounded in the belief that all children can learn and have the fundamental right to reach their fullest potential. As a reflection of the African proverb, "It takes a village to raise a child," the school values parent partnerships and collaborative efforts with various community based organizations, businesses and other institutions within and outside of the Harlem community.
 
 (address for under map) 282 West 151 Street, New York, NY 10039
+
+http://www.tmals.org/
 
 
 # Impact
