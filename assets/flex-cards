@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Navigation Header Bar</title>
-</head>
-<body>
-
 <!-- copy & paste everything between the <body> tags into an HTML Block inside of Concrete5 editor view -->
 
 <style>
@@ -633,7 +626,3 @@ An accomplished musician and music producer, Kevin holds a Bachelor of Science d
 
 </script>
 <!-- stop copy & pasting here. these comments may be left in or taken out. -->
-
-</body>
-
-</html>
