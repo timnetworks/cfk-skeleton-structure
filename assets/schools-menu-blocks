@@ -1,0 +1,243 @@
+<style>
+
+.bgimage { 
+  background-position: center center;
+  background-position: cover;
+  background-repeat: no-repeat;
+  display: block;
+  float: left;
+  width: 50%;
+  max-width: 310px;
+}
+
+.dim {
+  background: rgba(0,0,0,.75);
+  padding: 15px;
+  display: block;
+  transition: .25s;
+  height: 180px;
+}
+.dim:hover {
+  background: rgba(0,0,0,.73);
+  transition: .5s;
+}
+.dimred {
+  background-color: rgba(231,73,62,0.83);
+}
+.dimteal {
+  background-color: rgba(0,175,191,0.83);
+}
+.dimpurple {
+  background-color: rgba(140,83,155,0.83);
+}
+.dimyellow {
+  background-color: rgba(255,189,76,0.83);
+}
+.dimgreen {
+  background-color: rgba(195,215,86,0.83);
+}
+.dimblue {
+  background-color: rgba(23,42,99,0.83);
+}
+
+span.imagecaption  {
+  color: #FFF;
+  font-size: 1.2em;
+  font-weight: 850;
+  line-height: 25px;
+}
+.imagecaption2 {
+  color: #FFF;
+  font-weight: 600;
+  line-height: 15px;
+}
+.divcolumn {
+  float: left;
+}
+.sbccs {  
+  background-image: url('https://changeforkids.org/application/files/5315/6333/1601/BCCS_Teaser_Photo.jpg');
+}
+.sbles {  
+  background-image: url('https://changeforkids.org/application/files/2015/6333/1601/brooklynLandmark_teaser_0.jpg');
+}
+.sGrant {  
+  background-image: url('https://changeforkids.org/application/files/5715/6333/1601/img-7677_orig.jpg');
+}
+.s6x {  
+  background-image: url('https://changeforkids.org/application/files/2815/6333/1602/PS_6X_Teaser_0.png');
+}
+.s15 {  
+  background-image: url('https://changeforkids.org/application/files/6315/6333/1550/ps15_teaser.jpg');
+}
+.s21 {  
+  background-image: url('https://changeforkids.org/application/files/5015/6333/1602/PS_21_Teaser_0.png');
+}
+.s81 {  
+  background-image: url('https://changeforkids.org/application/files/5015/6339/3408/PS_81_School_Visit.jpg');
+}
+.s142 {  
+  background-image: url('https://changeforkids.org/application/files/1715/6333/1602/PS_142_Students_0.jpg');
+}
+.s160 {  
+  background-image: url('https://changeforkids.org/application/files/7115/6333/1601/PS_160_Main_Photo_0.jpg');
+}
+.s277 {  
+  background-image: url('https://changeforkids.org/application/files/2415/6333/1601/277mainphoto.jpg');
+}
+.s314 {  
+  background-image: url('https://changeforkids.org/application/files/2115/6333/1601/314_Teaser.jpg');
+}
+.s329 {  
+  background-image: url('https://changeforkids.org/application/files/3715/6333/1602/IMG_3169_0.JPG');
+}
+.sTMAL {  
+  background-image: url('https://changeforkids.org/application/files/thumbnails/file_manager_detail/7315/6333/1602/Thurgood_Marshall_3.jpg');
+}
+.sBlank {
+  background-image: url('https://changeforkids.org/application/files/thumbnails/file_manager_listing_2x/8515/6148/1572/sm-blue-icon-256.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+</style>
+
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/bccs.htm" target="lightbox">
+    <div class="bgimage sbccs">
+      <div class="dim dimgreen">
+        <span class="imagecaption">Brighter Choice Community School
+          <br />
+        </span>
+        <span class="imagecaption2">BCCS</span>
+      </div>
+    </div>
+  </a>
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/bles.htm" target="lightbox">
+    <div class="bgimage sbles">
+      <div class="dim dimteal">
+        <span class="imagecaption">Brooklyn Landmark Elementary School
+          <br />
+        </span>
+        <span class="imagecaption2">BLES</span>
+      </div>
+    </div>
+  </a>
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/grant.htm" target="lightbox">
+    <div class="bgimage sGrant">
+      <div class="dim dimred">
+        <span class="imagecaption">Grant Avenue Elementary School
+          <br />
+        </span>
+      </div>
+    </div>
+  </a>
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/ps6x.htm" target="lightbox">
+    <div class="bgimage s6x">
+      <div class="dim dimblue">
+        <span class="imagecaption">The Lighthouse School
+          <br />
+        </span>
+        <span class="imagecaption2">P.S. 6X</span>
+      </div>
+    </div>
+  </a>
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/roberto.htm" target="lightbox">
+    <div class="bgimage s15">
+      <div class="dim dimpurple">
+        <span class="imagecaption">The Roberto Clemente School
+          <br />
+        </span>
+        <span class="imagecaption2">P.S. 15</span>
+      </div>
+    </div>
+  </a>
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/ps21.htm" target="lightbox">
+    <div class="bgimage s21">
+      <div class="dim dimred">
+        <span class="imagecaption">P.S. 21
+          <br />
+        </span>
+      </div>
+    </div>
+  </a>
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/thaddeus.htm" target="lightbox">
+    <div class="bgimage s81">
+      <div class="dim dimgreen">
+        <span class="imagecaption">Thaddeus Stevens Elementary School
+          <br />
+        </span>
+        <span class="imagecaption2">P.S. 81</span>
+      </div>
+    </div>
+  </a>
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/amelia.htm" target="lightbox">
+    <div class="bgimage s142">
+      <div class="dim dimyellow">
+        <span class="imagecaption">The Amelia Castro School
+          <br />
+        </span>
+        <span class="imagecaption2">P.S. 142</span>
+      </div>
+    </div>
+  </a>
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/walter.htm" target="lightbox">
+    <div class="bgimage s160">
+      <div class="dim dimpurple">
+        <span class="imagecaption">Walter Francis Bishop School Magnet School of the Arts
+          <br />
+        </span>
+        <span class="imagecaption2">P.S. 160</span>
+      </div>
+    </div>
+  </a>
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/ps277.htm" target="lightbox">
+    <div class="bgimage s277">
+      <div class="dim dimteal">
+        <span class="imagecaption">P.S. 277
+          <br />
+        </span>
+      </div>
+    </div>
+  </a>
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/fairmont.htm" target="lightbox">
+    <div class="bgimage s314">
+      <div class="dim dimgreen">
+        <span class="imagecaption">The Fairmont Neighborhood School
+          <br />
+        </span>
+        <span class="imagecaption2">P.S. 314</span>
+      </div>
+    </div>
+  </a>
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/surfside.htm" target="lightbox">
+    <div class="bgimage s329">
+      <div class="dim dimblue">
+        <span class="imagecaption">The Surfside School
+          <br />
+        </span>
+        <span class="imagecaption2">P.S. 329</span>
+      </div>
+    </div>
+  </a>
+<a data-concrete5-link-lightbox="iframe" data-concrete5-link-lightbox-height="100%" data-concrete5-link-lightbox-width="640px" href="https://changeforkids.org/schools/thurgood.htm" target="lightbox">
+    <div class="bgimage sTMAL">
+      <div class="dim dimyellow">
+        <span class="imagecaption">Thurgood Marshall Academy Lower School
+          <br />
+        </span>
+        <span class="imagecaption2">TMALS</span>
+      </div>
+    </div>
+  </a>
+<a name="blankbox">
+    <div class="bgimage sBlank">
+      <div class="dim dimred">
+        <!-- -->
+      </div>
+    </div>
+  </a>
+
+<script>
+
+<!-- CSS only! -->
+
+</script>
