@@ -683,9 +683,7 @@ In the meantime, follow us on social media
 
 
 
-## DONATE PAGE
-## ###########
-
+# DONATE
 
 ## Change the future, today.
 
@@ -718,6 +716,29 @@ RECURRING
 [target]
 [best-buy]
 
+
+# EVENTS
+
+## Next Event:
+
+TCS NYRR Marathon
+November 03, 2019
+
+ Guaranteed entry into the 2019 TCS New York City Marathon
+ TCS NYC Marathon registration fee paid for by Change for Kids
+ Personalized Team Change for Kids running jersey and gear
+ Customizable online fundraising page and fundraising support
+ E-newsletter from Change for Kids with training, fundraising, and nutrition tips
+ Invitation to a Team Change for Kids Happy Hour for you and a guest
+ Invitation to Change for Kids' Donor Appreciation Night in early 2020
+
+Ready to sign up now? Please confirm your interest by completing this form.
+
+Have questions? Please reach out to Marissa Jones at mjones@changeforkids.org
+ 
+## Calendar
+
+[calendar]
 
 
 # PRIVACY POLICY
