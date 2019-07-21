@@ -1,0 +1,334 @@
+/* make the ads go horizontal */
+div.main-wrapper aside { display: inline-block; }
+
+/* make the nav not sticky if in edit mode */
+.ccm-toolbar-visible nav {
+    position: relative;
+}
+
+/* bump text items 25px to the right */
+.ccm-image-slider-text {
+    margin-left: 25px;
+}
+
+/* center the slider list items */
+div.main-wrapper ul, div.main-wrapper ul li {
+    margin: auto;
+}
+
+/* center anything! */
+.margin {
+    margin: 0 auto;
+}
+
+.bluebg {
+background-color: rgba(23, 42, 99, 0.9);
+background-blend-mode: multiply;
+}
+
+.purplebg {
+background-color: rgba(140, 53, 185, 0.9);
+background-blend-mode: multiply;
+}
+
+/* custom styles for Custom Style and Custom ID */
+.padding { padding: 25px; }
+.t25 { margin-top: 25px; }
+.t66 { margin-top: 66px; }
+.t200 { margin-top: 200px; }
+.tMinus {margin-top: -55px; }
+.paddingH { padding-top: 75px; padding-bottom: 75px; }
+.m1350 { max-width: 1350px;}
+.tM5 { margin-top: -5px; }
+
+
+/* highlight color */
+::-moz-selection { /* Code for Firefox */ color: #ffbd4c; background: #8c539b; }
+::selection { color: #ffbd4c; background: #8c539b; }
+
+/* call to action plugin no logo ontopbar */
+.c5h-call-to-action-branding { display: none; }
+
+/* no topbutton underline */
+div.main-wrapper a { text-decoration: none; }
+
+/* put the nav on a higher zindex */
+.ccm-custom-style-heading { z-index: +1000; }
+
+/* fix the top navigation in place */
+.ccm-custom-style-heading { position: fixed; left: 50%; transform: translateX(-50%); width: 100%; } 
+
+/* no list styling for main nav menu */
+div.main-wrapper ul, div.main-wrapper ul li { list-style-type: none; }
+
+/* custom cta button properties */
+.butn {
+  font-family: Arial;
+  color: #fff;
+  font-size: 20px;
+  background: #e7493e;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.butn:hover {
+  background: #00afbf;
+  text-decoration: none;
+}
+
+/* increase caption field */
+.cycle-caption { max-width: 50%; }
+
+/* change maps header color from blue to signature red */
+div.i4ewOd-pzNkMb-haAclf { background-color: rgb(231, 73, 62); }
+
+.butn2 { margin-top: 14px; padding: 5px; }
+
+.dbtn {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: relative;
+  display: block;
+  overflow: hidden;
+  border-width: 0;
+  outline: none;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+  
+  background-color: #2ecc71;
+  color: #ecf0f1;
+  
+  transition: background-color .3s;
+}
+
+.dbtn:hover, .btn:focus {
+  background-color: #27ae60;
+}
+
+.dbtn > * {
+  position: relative;
+}
+
+.dbtn span {
+  display: block;
+  padding: 12px 24px;
+}
+
+.dbtn:before {
+  content: "";
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+  display: block;
+  width: 0;
+  padding-top: 0;
+    
+  border-radius: 100%;
+  
+  background-color: rgba(236, 240, 241, .3);
+  
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.dbtn:active:before {
+  width: 120%;
+  padding-top: 120%;
+  
+  transition: width .2s ease-out, padding-top .2s ease-out;
+}
+
+/* Styles for different color buttons and adjustments */
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.dbtn.orange {
+  background-color: #ffbd4c;
+}
+
+.dbtn.orange:hover, .dbtn.orange:focus {
+  background-color: #cd963d;
+}
+
+.dbtn.red {
+  background-color: #e7493e;
+}
+
+.dbtn.red:hover, .dbtn.red:focus {
+  background-color: #b53730;
+}
+
+.dbtn.purple {
+  background-color: #8c539b;
+}
+
+.dbtn.purple:hover, .dbtn.purple:focus {
+  background-color: #6c4078;
+}
+
+.dbtn.green {
+  background-color: #c3d756;
+}
+
+.dbtn.green:hover, .dbtn.green:focus {
+  background-color: #96a542;
+}
+.dbtn.blue {
+  background-color: #172a63;
+}
+
+.dbtn.blue:hover, .dbtn.blue:focus {
+  background-color: #0b1431;
+}
+.dbtn.teal {
+  background-color: #00afbf;
+}
+
+.dbtn.teal:hover, .dbtn.teal:focus {
+  background-color: #00818d;
+}
+
+/* blockquotes */
+blockquote {
+  position: relative;
+  z-index: 5;
+  padding: 20px 30px 20px 30px;
+  margin: 50px auto;
+  width: 95%;
+  max-width: 1350px;
+  color: #ffbd4c;
+  text-align: justify;
+}
+
+.stackedquote {
+  border: solid 2px #ffbd4c;
+  padding: 20px 30px 20px 30px;
+  box-shadow: 13px 13px 0 0 #FFF,
+              15px 15px 0 0 #ffbd4c,
+              15px 11px 0 0 #ffbd4c,
+              11px 15px 0 0 #ffbd4c;
+}
+.redstacked {
+  border: solid 2px #e7493e;
+  padding: 20px 30px 20px 30px;
+  box-shadow: 13px 13px 0 0 #FFF,
+              15px 15px 0 0 #e7493e,
+              15px 11px 0 0 #e7493e,
+              11px 15px 0 0 #e7493e;
+}
+.tealstacked {
+  border: solid 2px #00afbf;
+  padding: 20px 30px 20px 30px;
+  box-shadow: 13px 13px 0 0 #FFF,
+              15px 15px 0 0 #00afbf,
+              15px 11px 0 0 #00afbf,
+              11px 15px 0 0 #00afbf;
+}
+.purplestacked {
+  border: solid 2px #8c539b;
+  padding: 20px 30px 20px 30px;
+  box-shadow: 13px 13px 0 0 #FFF,
+              15px 15px 0 0 #8c539b,
+              15px 11px 0 0 #8c539b,
+              11px 15px 0 0 #8c539b;
+}
+.yellowstacked {
+  border: solid 2px #ffbd4c;
+  padding: 20px 30px 20px 30px;
+  box-shadow: 13px 13px 0 0 #FFF,
+              15px 15px 0 0 #ffbd4c,
+              15px 11px 0 0 #ffbd4c,
+              11px 15px 0 0 #ffbd4c;
+}
+.greenstacked {
+  border: solid 2px #c3d756;
+  padding: 20px 30px 20px 30px;
+  box-shadow: 13px 13px 0 0 #FFF,
+              15px 15px 0 0 #c3d756,
+              15px 11px 0 0 #c3d756,
+              11px 15px 0 0 #c3d756;
+}
+.bluestacked {
+  border: solid 2px #172a63;
+  padding: 20px 30px 20px 30px;
+  box-shadow: 13px 13px 0 0 #FFF,
+              15px 15px 0 0 #172a63,
+              15px 11px 0 0 #172a63,
+              11px 15px 0 0 #172a63;
+}
+.greystacked {
+  border: solid 2px #212821;
+  padding: 20px 30px 20px 30px;
+  box-shadow: 13px 13px 0 0 #FFF,
+              15px 15px 0 0 #212821,
+              15px 11px 0 0 #212821,
+              11px 15px 0 0 #212821;
+}
+
+.shadowquote {
+  border: solid 2px #ffbd4c;
+  box-shadow: 15px 15px 0 0 #ffbd4c;
+}
+.shadowquote a {
+  color: #8c539b;
+  text-decoration: none;
+}
+.redshadow {
+  border: solid 2px #e7493e;
+  box-shadow: 15px 15px 0 0 #e7493e;
+}
+.tealshadow {
+  border: solid 2px #00afbf;
+  box-shadow: 15px 15px 0 0 #00afbf;
+}
+.purpleshadow {
+  border: solid 2px #8c539b;
+  box-shadow: 15px 15px 0 0 #8c539b;
+}
+.yellowshadow {
+  border: solid 2px #ffbd4c;
+  box-shadow: 15px 15px 0 0 #ffbd4c;
+}
+.greenshadow {
+  border: solid 2px #c3d756;
+  box-shadow: 15px 15px 0 0 #c3d756;
+}
+.blueshadow {
+  border: solid 2px #172a63;
+  box-shadow: 15px 15px 0 0 #172a63;
+}
+.greyshadow {
+  border: solid 2px #EDEDED;
+  box-shadow: 15px 15px 0 0 #212821;
+}
+
+.reversequote {
+  position: relative;
+  left: 7px;
+  background: #ffbd4c;
+  color: #FFF;
+  box-shadow: -5px 0 0 #FFF,
+              -10px 0 0 #ffbd4c,
+              -15px 0 0 #FFF,
+              -20px 0 0 #ffbd4c;
+}
+
+.inline {
+  display: block;
+  margin: 0 auto;
+}
+.inline li {
+  width: 30%;
+  min-width: 250px;
+  overflow: auto;
+  display: inline-block;
+  list-style-type: none;
+  margin-right: 25px;
+}
