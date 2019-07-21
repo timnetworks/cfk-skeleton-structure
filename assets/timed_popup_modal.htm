@@ -8,7 +8,17 @@
 <!-- copy & paste everything between the <body> tags into an HTML Block inside of Concrete5 editor view -->
 
 <style>
-/*msg*/
+
+.cover-bg {
+  position:fixed;
+  padding:0;
+  margin:0;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
+  background:rgba(255,255,255,0.65);
+}
 
 .vmiddle {
   margin: 0;
@@ -16,31 +26,45 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  line-height: 0.8em;
+}
+
+div.main-wrapper .vmiddle h3, div.main-wrapper .vmiddle h5 {
+    line-height: 0.9em;
+    margin: 0px;
 }
 
 #msg {
   z-index: 10001;
   position: fixed;
-  top: 100px;
-  bottom: 100px;
-  left: 25px;
-  right: 25px;
-  color: #FFFFFF;
-  background: #00afbf;
-  border-color:#e7493e;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+  color: #8c539b;
+  font-size: 1.2em;
+  font-weight: 1000;
+  background-color: rgba(255,255,255,1);
+  background-image: url("https://changeforkids.org/application/files/3015/6139/7163/DSC00367.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-color:#8c539b;
   border-radius: 5px;
   padding: 25px;
-  box-shadow: 5px 5px #ffbd4c;
+  box-shadow: 5px 5px #8c539b;
   vertical-align: top;
-  opacity: 0.95;
+  opacity: 1;
   overflow: auto;
 }
 
 .close { 
   float: right;
-  font-size: 2.3em;
+  font-size: 2.5em;
   cursor: pointer;
-  color: #FFF;
+  color: #8c539b;
+  padding-top: 45px;
+  padding-right: 55px;
 }
 
 }
@@ -63,24 +87,35 @@
     padding: 25px;
 }
 
-.close 
+#button {
+    padding: 10px;
+}
+
 </style>
 
-<div id="msg">
-<span class="close">&times;</span>
-<span class="vmiddle">
-    <center>
-    <img src="https://test.changeforkids.org/application/files/3515/6106/0973/sm-white-icon-256.png" alt="Change For Kids" />
-  <p><span>Our mission is to create opportunities for kids so they can overcome inequity.</span></p>
-  <form method="get" action="/index.php/donate">
-    <button class="dbtn orange">
-    <span>
-          CHANGE THE FUTURE
+<link href="http://cdn.jsdelivr.net/animatecss/3.2.0/animate.css" rel="stylesheet"/>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<div id="msg"> 
+    <div class="cover-bg">
+    <span class="close">&times;</span>
+    <span class="vmiddle">
+
+      <center>
+        <span>
+          <h3>Our mission:</h3>
+          <h5>To create opportunities for kids so they can overcome inequity.</h5></span>
+        <form method="get" action="/index.php/donate" id="button">
+          <button class="dbtn purple">
+            <span>
+              CHANGE THE FUTURE
+            </span>
+          </button>
+        </form>
+        <br />
+        <img src="https://changeforkids.org/application/files/7115/6148/1572/sm-purple-icon-256.png" alt="Change For Kids" />
+      </center>
     </span>
-    </button>
-    </form>
-    </center>
-</span>
 </div>
 
 <script>
