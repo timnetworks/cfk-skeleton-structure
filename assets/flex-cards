@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Navigation Header Bar</title>
+</head>
+<body>
+
+<!-- copy & paste everything between the <body> tags into an HTML Block inside of Concrete5 editor view -->
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:300,400,500,600,700,800');
+
+.demo body {
+background-color: #f0f2f5;
+}
+
+.inner-container {
+    max-width: 1130px;
+    margin: 0 auto;
+}
+
+.team-card-container {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: 0 12px;
+}
+
+@media print,
+screen and (min-width: 40em) {
+    .team-card-container {
+        padding: 0;
+    }
+}
+
+.team-card {
+    position: relative;
+    width: 100%;
+    margin: 25px auto;
+    text-align: center;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+@media print,
+screen and (min-width: 40em) {
+    .team-card {
+        width: 50%;
+    }
+}
+
+@media print,
+screen and (min-width: 64em) {
+    .team-card {
+        min-height: calc(505px + 32px + 25px);
+        overflow: hidden;
+        width: 33.33%;
+    }
+    .team-card:hover .team-card__cover {
+        max-height: 100%;
+        background-color: #00afbf;
+        box-shadow: 0 20px 28px 0 rgba(13, 23, 54, 0);
+    }
+    .team-card-teal:hover .team-card__cover {
+          background-color: #00afbf;
+    }
+    .team-card-purple:hover .team-card__cover {
+          background-color: #8c539b;
+    }
+    .team-card-yellow:hover .team-card__cover {
+          background-color: #ffbd4c;
+    }
+    .team-card-green:hover .team-card__cover {
+          background-color: #c3d756;
+    }
+    .team-card-blue:hover .team-card__cover {
+          background-color: #7073f9;
+    }
+    .team-card:hover .team-card__content {
+        transform: translateY(0);
+    }
+    .team-card:hover .img {
+        box-shadow: 0 33px 48px 0 rgba(13, 23, 54, 0);
+        opacity: .7;
+    }
+    .team-card:hover .title,
+    .team-card:hover .role {
+        color: #fff;
+    }
+    .team-card:hover .copy {
+        opacity: 1;
+        transition: all 0.4s 0.16s cubic-bezier(0.11, 0.565, 0, 0.935);
+    }
+}
+
+.team-card__cover {
+    min-height: 395px;
+    max-height: 395px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgba(255, 51, 113, 0);
+    transition: all 0.9s cubic-bezier(0.11, 0.565, 0, 0.935);
+    overflow: hidden;
+    box-shadow: 0 5px 5px 0 rgba(13, 23, 54, 0.23);
+}
+
+@media print,
+screen and (min-width: 40em) {
+    .team-card__cover {
+        max-width: 300px;
+    }
+}
+
+@media print,
+screen and (min-width: 64em) {
+    .team-card__cover {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+    }
+}
+
+@media screen and (min-width: 75em) {
+    .team-card__cover {
+        max-width: 350px;
+        min-width: 350px;
+    }
+}
+
+.team-card__container {
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+}
+
+@media print,
+screen and (min-width: 40em) {
+    .team-card__container {
+        max-width: 315px;
+    }
+}
+
+@media screen and (min-width: 75em) {
+    .team-card__container {
+        max-width: 350px;
+    }
+}
+
+.team-card__content {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 32px 32px 0 32px;
+    display: flex;
+    flex-direction: column;
+    transition: all 0.4s cubic-bezier(0.11, 0.565, 0, 0.935);
+}
+
+@media print,
+screen and (min-width: 64em) {
+    .team-card__content {
+        padding: 32px;
+        transform: translateY(385px);
+    }
+}
+
+.team-card__copy {
+    display: none;
+}
+
+@media print,
+screen and (min-width: 64em) {
+    .team-card__copy {
+        display: block;
+        margin: 20px 0;
+    }
+}
+
+.team-card__footer {
+    display: none;
+}
+
+@media print,
+screen and (min-width: 64em) {
+    .team-card__footer {
+        display: block;
+        margin-top: auto;
+    }
+}
+
+.team-card .title {
+    margin: 0;
+    font-size: 40px;
+    line-height: 1.35;
+    color: #0d1736;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    transition: all 0.4s cubic-bezier(0.11, 0.565, 0, 0.935);
+}
+
+.team-card .copy {
+	font-family: 'Barlow Semi Condensed', sans-serif;
+    opacity: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #fff;
+    transition: all 0.4s cubic-bezier(0.11, 0.565, 0, 0.935);
+}
+
+.team-card .img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    opacity: 1;
+    filter: gray;
+    filter: grayscale(100%);
+    mix-blend-mode: darken;
+    transition: transform 0.6s cubic-bezier(0.11, 0.565, 0, 0.935), height 0.4s cubic-bezier(0.11, 0.565, 0, 0.935), width 0.4s cubic-bezier(0.11, 0.565, 0, 0.935), opacity 0.4s 0.2s cubic-bezier(0.11, 0.565, 0, 0.935), mix-blend-mode 0.4s 0.2s cubic-bezier(0.11, 0.565, 0, 0.935);
+}
+
+.team-card .role {
+    margin: 0;
+    font-size: 18px;
+    line-height: 2;
+    color: #e7493e;
+    transition: all 0.4s cubic-bezier(0.11, 0.565, 0, 0.935);
+}
+
+.team-card .list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.team-card .list__li {
+    display: inline-block;
+}
+
+.team-card .link {
+    color: #fff;
+    font-size: 24px;
+}
+
+.team-card .link:hover,
+.team-card .link:focus,
+.team-card .link:active {
+    color: #fff;
+}
+</style>
+
+<section class="section section-ko-team">
+    <div class="grid-container">
+        <div class="inner-container">
+            <div class="team-card-container">
+                <div class="team-card team-card-yellow">
+                    <div class="team-card__container">
+                        <div class="team-card__cover">
+                            <img src="https://changeforkids.org/application/files/thumbnails/file_manager_detail_2x/3215/6005/5417/KevinErvinHeadshot.jpg" alt="alt_text" class="img">
+                        </div>
+                        <div class="team-card__content">
+                            <div class="team-card__header">
+                                <h3 class="title">Kevin Ervin</h3>
+                                <h4 class="role">Executive Director</h4>
+                            </div>
+                            <div class="team-card__copy">
+                                <p class="copy">Kevin has dedicated his life to leveling the playing field for kids by providing meaningful change to organizations like GLOW Renaissance Youth Center, and public sector service at the NYC Dept of Education.<!-- He grew up in rough-and-tumble Brooklyn, won a prized opportunity to attend The Hotchkiss School, then studied music and discovered his passion for changing the lives of kids for the better while working with young people in the South Bronx. There, he grew the GLOW after-school initiative at the Vacamas Programs for Youth organization to serve students from 16 schools in the Bronx and New Jersey, earning leadership fellowships from the Center for Creative Leadership and Rutgers Institute of Ethical leadership for his efforts. Kevin went on to help Renaissance Youth Center win over $2 Million in funding from city grants within his first 6 months, allowing them to expand their youth development work. Kevin sharpened his education acumen within the New York City Department of Education where he strengthened operations and administration at Satellite Academy High School.--></p><p class="copy">                                
+An accomplished musician and music producer, Kevin holds a Bachelor of Science degree in Leadership from Northeastern University, and an Executive Masters in Public Administration from New York University. As Executive Director of Change for Kids, he has bolstered the vision and mission of the organization, and is leading the charge to create opportunities for kids so they can overcome inequity.</p>
+                            </div>
+                            <div class="team-card__footer">
+                                <ul class="list">
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Facebook">
+                                        		<i class="icon icon-facebook"></i>
+                                        	</a>
+                                    </li>
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Twitter">
+                                        		<i class="icon icon-twitter"></i>
+                                        	</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-card team-card-green">
+                    <div class="team-card__container">
+                        <div class="team-card__cover">
+                            <img src="https://changeforkids.org/application/files/thumbnails/file_manager_detail_2x/4315/6005/5433/ZaretaHeadshot.jpg" alt="alt_text" class="img">
+                        </div>
+                        <div class="team-card__content">
+                            <div class="team-card__header">
+                                <h3 class="title">Zareta Ricks</h3>
+                                <h4 class="role">Senior Director of Programming & Innovation
+</h4>
+                            </div>
+                            <div class="team-card__copy">
+                                <p class="copy">Previously the Director of Corporate Engagement and Strategies, and, prior to that, School Manager at Change for Kids, Zareta is thoroughly dedicated to building a community of trust and collaboration between our organization and school communities, students, and their families. Prior to working with CFK, she spent three years as the founding parent coordinator at a new elementary school in East New York, Brooklyn. Before that Department of Education role, Zareta worked in the fashion industry as a corporate Operations Manager.</p>
+                            </div>
+                            <div class="team-card__footer">
+                                <ul class="list">
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Facebook">
+                                        		<i class="icon icon-facebook"></i>
+                                        	</a>
+                                    </li>
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Twitter">
+                                        		<i class="icon icon-twitter"></i>
+                                        	</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-card team-card-blue">
+                    <div class="team-card__container">
+                        <div class="team-card__cover">
+                            <img src="https://changeforkids.org/application/files/thumbnails/file_manager_detail_2x/9915/6005/5589/MarissaHeadshot.jpg" alt="alt_text" class="img">
+                        </div>
+                        <div class="team-card__content">
+                            <div class="team-card__header">
+                                <h3 class="title">Marissa Jones</h3>
+                                <h4 class="role">Chief of Staff</h4>
+                            </div>
+                            <div class="team-card__copy">
+                                <p class="copy">Marissa has a history of working with youth in crisis as well as teens involved in the juvenile justice system, and has worked as a residential counselor in both New York and Massachusetts. She is a CFK “boomerang employee,” meaning she left the organization yet was compelled to return! Now in the role of Chief of Staff, she previously held Business Development & Special Projects Manager roles, and has lent her considerable expertise across every department. Prior to joining Change for Kids, Marissa worked in advertising sales at Yelp. She holds a Bachelor of Arts from Hampshire College, where she studied performance art, critical theory, and gender studies.</p>
+                            </div>
+                            <div class="team-card__footer">
+                                <ul class="list">
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Facebook">
+                                        		<i class="icon icon-facebook"></i>
+                                        	</a>
+                                    </li>
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Twitter">
+                                        		<i class="icon icon-twitter"></i>
+                                        	</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-card team-card-teal">
+                    <div class="team-card__container">
+                        <div class="team-card__cover">
+                            <img src="https://changeforkids.org/application/files/thumbnails/file_manager_detail_2x/1415/6005/5443/RebeccaHeadshot.jpg" alt="alt_text" class="img">
+                        </div>
+                        <div class="team-card__content">
+                            <div class="team-card__header">
+                                <h3 class="title">Rebecca Bachman</h3>
+                                <h4 class="role">Associate Director of Development and Events</h4>
+                            </div>
+                            <div class="team-card__copy">
+                                <p class="copy">With the ever-present motivation to help others driving her, Rebecca’s career has been entirely focused on not-for-profit organizations making an important difference in the world. Prior to joining Change for Kids almost five years ago, Rebecca worked as the Grants and Operations Assistant at The Natan Fund, a giving circle foundation in NYC. Rebecca holds a B.A. from Brandeis University where she majored in sociology and education studies with a minor in Social Justice and Social Policy. She completed the Avodah Justice Fellowship in June 2018 and currently sits on the Brandeis Alumni Board as one of the National Young Alumni Co-chairs.</p>
+                            </div>
+                            <div class="team-card__footer">
+                                <ul class="list">
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Facebook">
+                                        		<i class="icon icon-facebook"></i>
+                                        	</a>
+                                    </li>
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Twitter">
+                                        		<i class="icon icon-twitter"></i>
+                                        	</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-card team-card-purple">
+                    <div class="team-card__container">
+                        <div class="team-card__cover">
+                            <img src="https://changeforkids.org/application/files/thumbnails/file_manager_detail_2x/6915/6005/5456/NicoleHeadshot.jpg" alt="alt_text" class="img">
+                        </div>
+                        <div class="team-card__content">
+                            <div class="team-card__header">
+                                <h3 class="title">Nicole Favard</h3>
+                                <h4 class="role">Associate Director of School Management</h4>
+                            </div>
+                            <div class="team-card__copy">
+                                <p class="copy">Before joining Change for Kids, Nicole previously worked at Graham Windham Services for Families and Children for more than seven years. During that time, she held several positions including Socio-Therapist, Behavioral Specialist, Case Planner, and Foster Parent Support Coordinator. Nicole taught at Hanover and Milestone School for Child Development, where she worked with both special and general education students. Nicole has a B.A. in Psychology from the College of New Rochelle and a dual Masters of General and Special Education; she also holds a number of certifications within child welfare.</p>
+                            </div>
+                            <div class="team-card__footer">
+                                <ul class="list">
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Facebook">
+                                        		<i class="icon icon-facebook"></i>
+                                        	</a>
+                                    </li>
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Twitter">
+                                        		<i class="icon icon-twitter"></i>
+                                        	</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-card team-card-yellow">
+                    <div class="team-card__container">
+                        <div class="team-card__cover">
+                            <img src="https://changeforkids.org/application/files/thumbnails/file_manager_detail_2x/6115/6005/5471/MonicaHeadshot.jpg" alt="alt_text" class="img">
+                        </div>
+                        <div class="team-card__content">
+                            <div class="team-card__header">
+                                <h3 class="title">Monica Trausch</h3>
+                                <h4 class="role">Operations Manager</h4>
+                            </div>
+                            <div class="team-card__copy">
+                                <p class="copy">Prior to joining Change for Kids, Monica worked as an English teacher in Phnom Penh, Cambodia, as well as various roles within the non-profit theater and film industries. She is also a screenwriter and playwright whose work has been produced at many independent theaters in New York City and Los Angeles. She holds a BA from UC Santa Barbara and an MFA in Creative Writing from the Writer’s Foundry.</p>
+                            </div>
+                            <div class="team-card__footer">
+                                <ul class="list">
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Facebook">
+                                        		<i class="icon icon-facebook"></i>
+                                        	</a>
+                                    </li>
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Twitter">
+                                        		<i class="icon icon-twitter"></i>
+                                        	</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-card team-card-green">
+                    <div class="team-card__container">
+                        <div class="team-card__cover">
+                            <img src="https://changeforkids.org/application/files/thumbnails/file_manager_detail_2x/9015/6005/5475/AdrianHeadshot.jpg" alt="alt_text" class="img">
+                        </div>
+                        <div class="team-card__content">
+                            <div class="team-card__header">
+                                <h3 class="title">Adrian Wright</h3>
+                                <h4 class="role">Communications & Special Projects Associate</h4>
+                            </div>
+                            <div class="team-card__copy">
+                                <p class="copy">Adrian is thrilled to be making use of his considerable communications and marketing skills to positively impact early child education in New York City communities. A New York City native, Adrian was the Director of Photography for Flight Club and managed social media for West Elm Chelsea prior to joining CFK. He attended BMCC and majored in Applied Science and Business Management.</p>
+                            </div>
+                            <div class="team-card__footer">
+                                <ul class="list">
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Facebook">
+                                        		<i class="icon icon-facebook"></i>
+                                        	</a>
+                                    </li>
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Twitter">
+                                        		<i class="icon icon-twitter"></i>
+                                        	</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-card team-card-blue">
+                    <div class="team-card__container">
+                        <div class="team-card__cover">
+                            <img src="https://changeforkids.org/application/files/thumbnails/file_manager_detail_2x/7015/6005/5482/YvetteHeadshot.jpg" alt="alt_text" class="img">
+                        </div>
+                        <div class="team-card__content">
+                            <div class="team-card__header">
+                                <h3 class="title">Yvette Mosely</h3>
+                                <h4 class="role">School Manager</h4>
+                            </div>
+                            <div class="team-card__copy">
+                                <p class="copy">Prior to joining Change for Kids, Yvette Mosley worked at Catholic Charities MOSAIC Beacon as an Outreach Coordinator and Leadership Development teacher for the teen program. She was a key contributor and advocate for the college readiness initiative while spearheading parent engagement workshops. She received a Bachelor’s Degree in Professional Studies & Human Services, and a Master’s Degree in Public Affairs & Administration from the Metropolitan College of New York. In addition, she has earned a number of certifications from the Department of Youth and Community Development.</p>
+                            </div>
+                            <div class="team-card__footer">
+                                <ul class="list">
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Facebook">
+                                        		<i class="icon icon-facebook"></i>
+                                        	</a>
+                                    </li>
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Twitter">
+                                        		<i class="icon icon-twitter"></i>
+                                        	</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-card team-card-teal">
+                    <div class="team-card__container">
+                        <div class="team-card__cover">
+                            <img src="https://changeforkids.org/application/files/thumbnails/file_manager_detail_2x/9015/6005/5513/ChariseHeadshot.jpg" alt="alt_text" class="img">
+                        </div>
+                        <div class="team-card__content">
+                            <div class="team-card__header">
+                                <h3 class="title">Shanise Alleyne</h3>
+                                <h4 class="role">School Manager</h4>
+                            </div>
+                            <div class="team-card__copy">
+                                <p class="copy">Before joining Change For Kids, Shanise worked for Millennium Development, a non-profit organization servicing youth through NYC Department of Youth & Community Development programs such as COMPASS and Cornerstone. She held several positions including Program Aid, Program Director, as well as Program Supervisor. Previously Shanise was in the role of Community School Director at a middle school in Staten Island. She holds a Bachelor's degree in Business Administration with a minor in Psychology, as well as a MBA, from the University of Bridgeport.</p>
+                            </div>
+                            <div class="team-card__footer">
+                                <ul class="list">
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Facebook">
+                                        		<i class="icon icon-facebook"></i>
+                                        	</a>
+                                    </li>
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Twitter">
+                                        		<i class="icon icon-twitter"></i>
+                                        	</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-card team-card-purple">
+                    <div class="team-card__container">
+                        <div class="team-card__cover">
+                            <img src="https://changeforkids.org/application/files/thumbnails/file_manager_detail_2x/9615/6005/5578/DonnaHeadshot.jpg" alt="alt_text" class="img">
+                        </div>
+                        <div class="team-card__content">
+                            <div class="team-card__header">
+                                <h3 class="title">Donna Newton</h3>
+                                <h4 class="role">Director of Communications</h4>
+                            </div>
+                            <div class="team-card__copy">
+                                <p class="copy">Before joining Change for Kids, Donna spent several decades in the realms of marketing, advertising, and public relations as a new business director at several agencies, including Foote Cone & Belding, MediaCom, and DeVries Public Relations. Prior to that, she worked in the entertainment industry, initially as an independent casting director, then as the executive assistant/literary coordinator for theatre producer Richard Frankel. Donna is a co-chair of the women’s reproductive rights activist group WHARR. She is also a playwright/screenwriter; a parent; passionate about justice and fitness; a member of the Prospect Park Track Club; and a lifelong vegetarian.</p>
+                            </div>
+                            <div class="team-card__footer">
+                                <ul class="list">
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Facebook">
+                                        		<i class="icon icon-facebook"></i>
+                                        	</a>
+                                    </li>
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Twitter">
+                                        		<i class="icon icon-twitter"></i>
+                                        	</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--<div class="team-card">
+                    <div class="team-card__container">
+                        <div class="team-card__cover">
+                            <img src="https://changeforkids.org/application/files/thumbnails/file_manager_detail_2x/8815/6005/5595/MeshaHeadshot.jpg" alt="alt_text" class="img">
+                        </div>
+                        <div class="team-card__content">
+                            <div class="team-card__header">
+                                <h3 class="title">Mesha Allen</h3>
+                                <h4 class="role">Volunteer Coordinator</h4>
+                            </div>
+                            <div class="team-card__copy">
+                                <p class="copy">Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+                            </div>
+                            <div class="team-card__footer">
+                                <ul class="list">
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Facebook">
+                                        		<i class="icon icon-facebook"></i>
+                                        	</a>
+                                    </li>
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Twitter">
+                                        		<i class="icon icon-twitter"></i>
+                                        	</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
+                <!--<div class="team-card">
+                    <div class="team-card__container">
+                        <div class="team-card__cover">
+                        </div>
+                        <div class="team-card__content">
+                            <div class="team-card__header">
+                                <h3 class="title">Third Person in this row</h3>
+                                <h4 class="role">Has a Job Here</h4>
+                            </div>
+                            <div class="team-card__copy">
+                                <p class="copy">Vivamus sed enim vehicula, faucibus tellus quis, pretium diam. Nullam vel maximus nulla, in bibendum lectus. Proin in velit lorem. Maecenas sed pellentesque nisl. Nunc id justo mi. Suspendisse potenti. Vivamus tincidunt, dolor non egestas finibus, orci eros rutrum nibh, id cursus lorem metus quis mi. </p>
+                            </div>
+                            <div class="team-card__footer">
+                                <ul class="list">
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Facebook">
+                                        		<i class="icon icon-facebook"></i>
+                                        	</a>
+                                    </li>
+                                    <li class="list__li">
+                                        <a href="javascript:void(0)" class="link" title="Profilo Twitter">
+                                        		<i class="icon icon-twitter"></i>
+                                        	</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+
+<!-- no scripting, pure css transitions! -->
+
+</script>
+<!-- stop copy & pasting here. these comments may be left in or taken out. -->
+
+</body>
+
+</html>
