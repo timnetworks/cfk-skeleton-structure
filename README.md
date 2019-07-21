@@ -45,48 +45,68 @@ COLOR | Red | Teal | Purple | Yellow | Green | Navy Blue
 
 # HOME PAGE
 
-![Change For Kids](https://test.changeforkids.org/application/files/9015/5975/3238/logo.png)
+Change for Kids creates opportunities for kids.
 
-##### Sign Up to receive CHANGE Magazine, our monthly newsletter.
+[Change The Future]
 
-Change for Kids creates opportunities for kids in New York City public schools. 
+We provide critical supports, experiences, and access so kids in New York City public schools can reimagine their possibilities and overcome inequity. We believe opportunities create options. We believe that one can’t dream what one has not seen. We believe creating opportunities for young people allows them to see themselves with different options, through different lenses. And this affords them the tools to reimagine their own possibilities and the tools with which to overcome inequity. 
 
-We provide critical supports, experiences, and access so they can reimagine their possibilities and overcome inequity. We believe opportunities create options. We believe that one can’t dream what one has not seen. We believe creating opportunities for young people allows them to see themselves with different options, through different lenses. And this affords them the tools to reimagine their own possibility and the tools with which to overcome inequity.
+The Change For Kids Model
+Access to opportunities, intentional experiences, and a levelled playing field for kids are at the core.
 
-
-##### The Change For Kids Model
-Improving literacy, social-emotional learning, and community engagement is at the core of our model.
-
-##### Partner Schools
+Partner Schools
 Have a collaborative school culture with a commitment to success
 
-##### School Managers
+School Managers
 Manage a mix of programs, resources and volunteers for maximum effect
 
-##### Programs
-Bring a variety of educational, arts, and vocational opportunities for kids to reimagine possibilities and
-broaden horizons
+Programs
+Bring a variety of educational, arts, and vocational opportunities for kids to reimagine possibilities and broaden horizons
 
-##### Supporters
+Supporters
 Provide funding and support that help us deliver and expand our impact
 
-##### Volunteers
-Inspire our students and enrich our school communities
+Volunteers
+Inspire our students and enrich our school communities 
 
-## TAKE ACTION
+Take Action!
 
 Whether you donate, volunteer, fundraise, or attend an event to benefit Change for Kids, you'll help create opportunities for young people to see themselves with different options and reimagine their own possibilities.
 
-##### DONATE
+Events%20Teaser.jpg
+Events
+Support Change for Kids by attending one of our signature events that are hosted throughout the year.
 
-##### VOLUNTEER
+33986142474_919eb52bb1_o.jpg
+Volunteer
+No matter how you take part, you'll help inspire young imaginations at Change for Kids partner schools.
 
-##### FUNDRAISE
+Marathon%20Teaser_0.jpg
+Fundraise
+Host your own fundraising campaign for Change for Kids and rally your family and friends to join you.
+Sign Up to receive CHANGE Magazine, our monthly newsletter.
+
+Resources
+The Change For Kids Official Blog
+Social Media:
+
+Financial Info
+
 
 
 # ABOUT US
 
-### Our Values and Culture
+## What We Do:
+
+The Change for Kids community works together to allow young people to see themselves in the future with unlimited options. CFK School Managers, in partnership with principals, teachers, and CFK leadership, identify the needs of each CFK partner school.
+
+Together, we provide and manage a mix of resources, including leadership support; academic enrichment and engagement programs; volunteers; corporate sponsors; school community support; and custom programming.
+
+Our mission is to create opportunities for kids so they can overcome inequity.
+
+We provide critical supports, experiences, and access so kids in New York City public schools can reimagine their possibilities and overcome inequity.
+
+## Our Values and Culture
 
 Our Change for Kids values act as a compass for how we work together across our entire community. 
 
@@ -117,15 +137,15 @@ We see challenges as opportunities for change.
 
 ### Culture at CFK
 
-With a mission to create opportunities for kids so they can overcome inequity, it’s critical for Change for Kids to be a place where our purpose and our practices are consistently hand-in-hand. We believe the future depends on it. That’s why our culture is defined primarily by being youthful, vibrant, inclusive, and committed to real change for kids. At CFK, we are do-ers who are team players; we’re curious, thoughtful, deliberate, passionate, and determined. While we work hard, we are colleagues who care
-for each other and make each other laugh every day. We invite you to come have fun with us.
+With a mission to create opportunities for kids so they can overcome inequity, it’s critical for Change for Kids to be a place where our purpose and our practices are consistently hand-in-hand. We believe the future depends on it. That’s why our culture is defined primarily by being youthful, vibrant, inclusive, and committed to real change for kids.
+
+At CFK, we are do-ers who are team players; we’re curious, thoughtful, deliberate, passionate, and determined. While we work hard, we are colleagues who care for each other and make each other laugh every day. We invite you to come have fun with us.
 
 
 
-#### People
+### People
 
 Meet the people whose passion, creativity, and commitment make a difference for our partner schools.
-
 
 
 ##### Staff
@@ -184,91 +204,90 @@ Before joining Change for Kids, Donna spent several decades in the realms of mar
 
 ##### Board of Directors
 
+Natalie Auerbach
+ Chair
+Lisa Bernstein
+ Vice-Chair
+Sara Hinkle
+ Vice-Chair
+Kristin Black
+ Secretary
+Terrence McLean
+ Treasurer
+Zach Barratt
+ Fundraising Committee Co-Chair
+Kevin Hammond
+ Fundraising Committee Co-Chair
+Karen Epstein
+ Governance Chair
+Robin Davson
+ Programs Committee Chair
+Nicolas Koechlin
+ Board Chair Emeritus
+Julia Bechtolsheimer
+Maya Burgos
+Laura Farah
+Florence Faucon
+Louise Phillips Forbes
+Peter Herzberg
+Ed Napper
+Bronwen Smith
+Colin Smith
+Sheila Spence
+Drew Skelton
 
-- Natalie Auerbach
-  - Chair
-- Lisa Bernstein
-  - Vice-Chair
-- Sara Hinkle
-  - Vice-Chair
-- Kristin Black
-  - Secretary
-- Terrence McLean
-  - Treasurer
-- Zach Barratt
-  - Fundraising Committee Co-Chair
-- Kevin Hammond
-  - Fundraising Committee Co-Chair
-- Karen Epstein
-  - Governance Chair
-- Robin Davson
-  - Programs Committee Chair
-- Julia Bechtolsheimer
-- Maya Burgos
-- Laura Farah
-- Florence Faucon
-- Louise Phillips Forbes
-- Peter Herzberg
-- Nicolas Koechlin
-- Ed Napper
-- Bronwen Smith
-- Colin Smith
-- Sheila Spence
-- Drew Skelton
 
 
 ##### Board of Advisors
 
-- Ethan Auerbach
-- Rich Canning
-- Ryan Hinkle
-- Lisa Kalhans
-- Niklas Kloepfer
-- Joseph Tansey
-- Jenn Wild
-
+Ethan Auerbach
+Rich Canning
+Ryan Hinkle
+Lisa Kalhans
+Niklas Kloepfer
+Joseph Tansey
+Jenn Wild
 
 ##### Advisory Council
 
-- Meredith Coburn
-- Harald Collet
-- Stacey Griffith
-- Steve Guerrini
-- Matt Krieg
-- Sarah Novatt
-- Noah Waisbrot
-- Whitney Wortman
+Meredith Coburn
+Harald Collet
+Stacey Griffith
+Steve Guerrini
+Matt Krieg
+Sarah Novatt
+Noah Waisbrot
+Whitney Wortman
+
+##### Junior Board
 
 
-Junior Board
-
-
-- Marc Andrusko
-- Maya Bakhai
-- Sebastian Baquerizo
-- Samantha Bosin
-- Tamika Covington
-- Steven DiMilia
-- Minela Feratovic
-- Thomas Gunton
-- Nealy Hale
-- Meredith Hightower
-- Jordan Holand
-- Suraj Jain
-- Alex Kanter
-- Gregory Knight
-- Rebecca Mandel
-- Meghan McCarthy
-- Claire Molinaro
-- Rob Narayana
-- Hayley Orcutt
-- Santiago Quinones
-- Alexandria Ramos
-- Santiago Rivera
-- Cassie Rolinck
-- Julia Schmidtt
-- Hayley Vecchio
-- Chris Vecchio
+Marc Andrusko
+Maya Bakhai
+Sebastian Baquerizo
+Samantha Bosin
+Tamika Covington
+Steven DiMilia
+Minela Feratovic
+Thomas Gunton
+Nealy Hale
+Meredith Hightower
+Jordan Holand
+Suraj Jain
+Alex Kanter
+Gregory Knight
+Rebecca Mandel
+Meghan McCarthy
+Claire Molinaro
+Rob Narayana
+Hayley Orcutt
+Santiago Quinones
+Alexandria Ramos
+Santiago Rivera
+Cassie Rolinck
+Julia Schmidtt
+Hayley Vecchio
+Chris Vecchio
 
 ##### Join Our Team
 
@@ -276,13 +295,19 @@ If you're passionate about education, eager to help NYC elementary school studen
 
 Don't see anything right for you? Check back often; in the meantime, please consider volunteering. It's a great way to get to know us and our schools.
 
-# The CFK Model
+[Join Our Team]
 
-The Change for Kids community works together to allow young people to see themselves in the future with unlimited options. CFK School Managers, in partnership with principals, teachers, and CFK leadership, identify the needs of each CFK partner school. Together, we provide and manage a mix of resources, including leadership support; academic enrichment and engagement programs; volunteers; corporate sponsors; school community support; and custom programming.
+# Our Work
 
-# Programs
 
-## Custom Programming
+## The CFK Model
+
+The Change for Kids community works together to allow young people to see themselves in the future with unlimited options. CFK School Managers, in partnership with principals, teachers, and CFK leadership, identify the needs of each CFK partner school.
+
+Together, we provide and manage a mix of resources, including leadership support; academic enrichment and engagement programs; volunteers; corporate sponsors; school community support; and custom programming.
+
+
+## Change For Kids Custom Programs
 
 ### TALNT Academy 
 A new CFK initiative designed to intersect arts education with social-emotional learning (SEL). 
@@ -313,26 +338,28 @@ Financial literacy is an important tool to introduce financial capability to our
 ### Experience NY
 CFK's Experience NY enrichment program enables students and their families to experience museums, Broadway and off-Broadway shows, dance recitals, music concerts, and corporate business offices.
 
+
 ## Additional Program Partners
 
-- Behind the Book
-- Chess NYC
-- City Parks Foundation
-- Department of Youth and Community Development 
-- Children's Museum of the Arts
-- Leap
-- New York State Council on the arts
-- NYC Department of Cultural Affairs
-- Robert Cornegy/District 36 
-- Salvadori Center
-- Story Pirates
-- Third Street Music School Settlement
-- Urban Golf Academy
-- Writopia Lab
+Behind the Book
+Chess NYC
+City Parks Foundation
+Department of Youth and Community Development 
+Children's Museum of the Arts
+Leap
+New York State Council on the arts
+NYC Department of Cultural Affairs
+Robert Cornegy/District 36 
+Salvadori Center
+Story Pirates
+Third Street Music School Settlement
+Urban Golf Academy
+Writopia Lab
 
-# Our Schools
 
-We partner with 13 schools across the five boroughs reaching almost 5,000 students, providing and managing a mix of resources, including leadership support for principals, teachers, parents, and other school leaders; academic enrichment and engagement programs; volunteers; corporate sponsors; school community support; custom CFK programming designed to fill the gaps identified by our partner schools; and meaningful volunteer opportunities for individuals, public and private organizations, and college/university students.
+## Our Schools
+
+Change for Kids partners with 13 schools across the five boroughs reaching almost 5,000 students. We provide and manage a mix of resources, including leadership support for principals, teachers, parents, and other school leaders; academic enrichment and engagement programs; volunteers; corporate sponsors; school community support; custom CFK programming designed to fill the gaps identified by our partner schools; and meaningful volunteer opportunities for individuals, public and private organizations, and college/university students.
 
 ### Brighter Choice Community School 
 BCCS
@@ -490,11 +517,11 @@ Principal: Dawn Brooks DeCosta
 http://www.tmals.org/
 
 
-# Impact
+## Impact
 
-The Change for Kids approach makes a positive impact on the lives of nearly 5,000 students at 13 partner schools in all five boroughs. With the help of supporters like you, Change for Kids raised $1.7 million this past year to combat educational inequity in New York City. This funded 57,833 programming hours and 115 volunteer events  thats over 4,700 volunteer hours dedicated to students. In addition, 80% of students in Change for Kids partner schools received new coats, winter accessories, or gifts during the 2018 holiday season.  With an equal focus on academics, social-emotional learning, and community engagement, CFK truly does make change for kids. 
+The Change for Kids approach makes a positive impact on the lives of nearly 5,000 students at 13 partner schools in all five boroughs. With the help of supporters like you, Change for Kids raised $1.7 million this past year to combat educational inequity in New York City. This funded 57,833 programming hours and 115 volunteer events - that's over 4,700 volunteer hours dedicated to students. 80% of students in Change for Kids partner schools received new coats, winter accessories, or gifts during the 2018 holiday season. With an equal focus on academics, social-emotional learning, and community engagement, CFK truly does make change for kids. 
 
-# 25 Years of Change for Kids
+## 25 Years of Change for Kids
 
 Twenty-five years ago in 1994, Ted Madara, a “finance guy,” was at a bar and got into a discussion with a teacher who casually mentioned that each drink he ordered cost more than what was in the budget for her kids’ school supplies for a year. 
 
@@ -502,7 +529,7 @@ Ted immediately realized this was something he could - and should - change.
 
 He could help meet a basic need of kids in public schools. He saw that even small change could have a big impact, and encouraged the people in his network to donate their spare change to help purchase school supplies for a public school classroom. 
 
-### That’s how Change for Kids was founded.
+> That’s how Change for Kids was founded.
 
 Receiving incredible support from his network, Madara eventually incorporated as a nonprofit in 1996, and partnered with four elementary schools in New York City. In one of the schools, the team discovered 30 violins in a closet. [Someone - WHO?] raised their hand to underwrite a teacher and curriculum, and suddenly 50 kids had music lessons. Today, 500 kids at four schools study music because of Change for Kids. 
 
@@ -514,6 +541,7 @@ Today, Kevin Ervin sits at the helm of Change for Kids.  A visionary leader hail
 
 Change for Kids can change the future. We’re so excited for what the next 25 years will hold.
 
+
 # TAKE ACTION
 
 ## Help Create Change for Kids
@@ -522,73 +550,197 @@ Whether you volunteer, fundraise, or attend an event to benefit Change for Kids,
 
 Change for Kids is proud to be certified by Points of Light. As a Service Enterprise organization, we are equipped to leverage the time and talent of our volunteers to meet the mission of our organization.
 
+## VOLUNTEER
 
-**Events**
+No matter how you take part, you'll help inspire young imaginations at Change for Kids partner schools. Check out a complete catalog of all our volunteer opportunities.
+
+
+## Events
 
 Support Change for Kids by attending one of our signature events that are hosted throughout the year.
 
-**Volunteer**
+> EVENTS ADVERT
 
-No matter how you take part, you'll help inspire young imaginations at Change for Kids partner schools. Check out a complete catalog of all our volunteer opportunities [here](#).
+Support Change for Kids by attending one of our signature events that are hosted throughout the year.
 
-**Fundraise**
+No matter how you take part, you'll help inspire young imaginations at Change for Kids partner schools.
 
-Host your own fundraising campaign for Change for Kids and rally your family and friends to donate.
+Host your own fundraising campaign for Change for Kids and rally your family and friends to join you.
 
-## Partners
 
-**Strategic Partners**
+## Strategic Partners
 
-- Apollo Global Management
-- B Floral
-- Blackstone
-- The Catalog for Giving of New York City
-- Davis & Gilbert LLP
-- Deloitte
-- HarperCollins Publishers
-- Himan Brown Charitable Trust
-- Labaton Sucharow LLP
-- Northern Trust
-- RBC Capital Markets
-- Salesforce
-- Unit Nutrition
-- Youth Inc. 
+Apollo Global Management
+B Floral
+Blackstone
+The Catalog for Giving of New York City
+Davis & Gilbert LLP
+Deloitte
+HarperCollins Publishers
+Himan Brown Charitable Trust
+Labaton Sucharow LLP
+Northern Trust
+RBC Capital Markets
+Salesforce
+Unit Nutrition
+Youth Inc. 
+
+
+## CONTACT US
+
+Contact Us
+
+Use this form to get in contact with our staff.
+
+First Name * 	
+Last Name * 	
+Email Address * 	
+Telephone Number 	
+Comments * 	
+
+Located in the heart of lower Manhattan.
+
+
+# RESOURCES
+
+
+## Connect with us online!
+
+
+## The CFK Blog
+
+
+Let’s Catch Kids Being Good, and Reinforce Their Positive Choices.
+May 10, 2019 changeforkids
+
+> Mental health is equally as important as physical health, and each can affect the other in myriad ways. However, there is still a stigma surrounding mental health and the open discussion and treatment thereof. If you felt sick, or you thought your ankle might be sprained, or you seemed to be having an allergic reaction, you wouldn’t hesitate to go to the doctor and treat those issues impacting your physical health – why should mental health be any different?
+
+read more...
+
+Volunteers inspire, coach and mentor our students, and enrich our school communities.
+April 26, 2019 changeforkids
+ 
+
+> This is National Volunteer Month, a time that always makes me reflect on how grateful I am for the volunteers that helped me learn, who shaped my determination to make a difference for kids into my choice as a career. I originally got involved in volunteer work because of the impact it had on me as a child. I saw that positive role models cared about my well being, my education, and my future. Volunteers can serve as a catalyst to demonstrate to children that there are multiple ways to escape the cycle of poverty, inequity, and despair. Children have the future in their hands, and being someone who can help them mold that future is what the volunteers in our schools provide.
+
+read more...
+
+All children – no matter what their learning style – can learn at high levels.
+April 14, 2019 changeforkids
+ 
+
+> April is Autism Awareness Month (also known as Autism Acceptance Month). Change for Kids emphasizes Social-Emotional programs for our schools that are designed to help create an environment in which all children can learn at high levels. Every student in every school deserves a quality education – no matter what their learning style is – and every student can learn and achieve.  
+
+Our CFK School Managers often interact with students who have a variety of neurodiverse issues that affect the ways they learn and socialize. Here’s one story of academic triumph, as reported by CFK School Manager Charlotte Bush.
+
+read more...
+
+
+## Financial Info 2018
+
+
+2018
+ Annual Report
+ Audit Report
+ Form 990
+ Form CHAR 500
+
+
+2017
+ Annual Report
+ Audit Report
+ Form 990
+ Form CHAR 500
+
+
+2016
+ Annual Report
+ Audit Report
+ Form 990
+ Form CHAR 500
+
+
+2015
+ Annual Report
+ Audit Report
+ Form 990
+
+
+2014
+ Audit Report
+ Form 990
+
+
+2013
+ Audit Report
+ Form 990
+
+
+## In the News
+
+There will be plenty of Change for Kids news soon - please check back!
+In the meantime, follow us on social media
+
+
 
 ## DONATE PAGE
 ## ###########
 
-You can help Change for Kids create opportunities for all kids in New York City public schools with the critical supports, experiences, and access they need to reimagine their possibilities and overcome inequity.
 
-For more information about sponsoring a Change for Kids partner school, or to make a donation of stock, please contact Kevin Ervin, Executive Director, at kevin@changeforkids.org.
+## Change the future, today.
 
+You can help Change for Kids create opportunities for all kids in New York City public schools with the critical supports, experiences, and access they need to reimagine their possibilities and overcome inequity. For more information about sponsoring a Change for Kids partner school, or to make a donation of stock, please contact Kevin Ervin, Executive Director, at kevin@changeforkids.org.
 
-- [x] Donation Form
+### CHOOSE A DONATION AMOUNT
+
+$
+ $25
+ $50
+ $100
+ $200
+ $500
+ Other
+
+CONTACT INFORMATION* indicates a required field
+CORPORATE MATCHING
+My company matches my contribution
+Not Applicable
+DEDICATE MY DONATION
+In honor of
+In memory of
+MAKE MY DONATION
+ONE TIME
+RECURRING
+
+### Donate With a Gift Card:
+
+[starbucks]
+[target]
+[best-buy]
 
 
 
 # PRIVACY POLICY
 
-## Privacy Policy
-
-#### What information do we collect?
+### What information do we collect?
 
 We collect information from you when you subscribe to our newsletter, fill out a form or submit a donation. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-#### What do we use your information for?
+### What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
-##### To process transactions:
+#### To process transactions:
 
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-##### To send periodic emails:
+#### To send periodic emails:
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-#### How do we protect your information?
+### How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
@@ -596,45 +748,46 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-#### Do we use cookies?
+### Do we use cookies?
 
 We do use cookies.
 
-#### Do we disclose any information to outside parties?
+### Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-#### California Online Privacy Protection Act Compliance
+### California Online Privacy Protection Act Compliance
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-#### Childrens Online Privacy Protection Act Compliance
+### Childrens Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-#### Online Privacy Policy Only
+### Online Privacy Policy Only
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-#### Your Consent
+### Your Consent
 
 By using our site, you consent to our web site privacy policy.
 
+
 # FOOTER SECTION
 
-#### Find Us:
+## Find Us:
 
 110 East 23rd Street, Fifth Floor
 
 New York, NY 10010
 
-#### Get In Touch:
+## Get In Touch:
 
 Call: (212) 213 - 8061
 
 info@changeforkids.org
 
-#### Learn More:
+## Learn More:
 
 Careers
 
@@ -642,7 +795,7 @@ Financials
 
 Sitemap
 
-#### Connect With Us:
+## Connect With Us:
 
 [social media icons]
 
