@@ -8,40 +8,33 @@
 <!-- copy & paste everything between the <body> tags into an HTML Block inside of Concrete5 editor view -->
 
 <style>
-    body {
-	line-height: 38px;
-	margin: 0;
-	padding: 0;
-	word-wrap:break-word !important;
-	font-family: 'Open Sans', sans-serif;
-	}
 
 #container {
-	margin: 0 auto;
-	max-width: 890px;
+    margin: 0 auto;
+    max-width: 900px;
 }
 
 p {
-	text-align: center;
+    text-align: center;
 }
 
 .toggle,
 [id^=drop] {
-	display: none;
+    display: none;
 }
 
 /* Giving a background-color to the nav container. */
 nav {
-	margin:0;
-	padding: 0;
-	background-color: rgb(231, 73, 62);
-	top: 0px;
+    margin:0;
+    padding: 0;
+    background-color:rgba(255,255,255,1);
+    top: 0px;
 }
 
 #logo {
-	display: block;
+    display: block;
     padding: 0;
-	float: left;
+    float: left;
     color: #FFFFFF;
     font-family: 'Passion One',coursive;
 }
@@ -50,50 +43,74 @@ nav {
  * we need to add a clear after the container. */
 
 nav:after {
-	content:"";
-	display:table;
-	clear:both;
+    content:"";
+    display:table;
+    clear:both;
 }
 
 /* Removing padding, margin and "list-style" from the "ul",
  * and adding "position:reltive" */
 nav ul {
-	float: right;
-	padding:0;
-	margin:0;
-	list-style: none;
-	position: relative;
-	}
+    float: right;
+    padding:0;
+    margin:0;
+    list-style: none;
+    position: relative;
+    }
 
 /* Positioning the navigation items inline */
 nav ul li {
-	margin: 0px;
-	display:inline-block;
-	float: left;
-	background-color: rgb(231, 73, 62);
-  transition: background 1s;
-	}
+    line-height: 38px;
+    margin: 0px;
+    display:inline-block;
+    float: left;
+    background-color: rgba(255,255,255,0.98);
+    transition: background 1s;
+    opacity: 0.97;
+    }
 
 nav ul li:hover {
-  background: #00afbf;
+  background: rgba(255,255,255,1);
   transition: background .45s;
 }
 
 /* Styling the links */
 nav a {
-	display:block;
-	padding:14px 25px;
-	color:#FFF;
-	text-decoration:none;
-  line-height: 36px;
+    display:block;
+    padding:14px 25px;
+    color:#00afbf;
+    text-decoration:none;
+    /* line-height: 36px; */
 }
 
 /* Background color change on Hover */
 nav a:hover {
-	background-color: #00afbf;
-  box-shadow: 1px 1px #888888;
-  transition: background .85s;
+    
+    background-color:rgba(255,255,255,1);
+    /* box-shadow: 1px 1px #888888; */
+    transition: background .85s;
 }
+
+.hover-about:hover {
+    color: #e7493e;
+}
+
+.hover-work:hover {
+    color: #8c539b;
+}
+
+.hover-action:hover {
+    color: #c3d756;
+}
+
+.hover-resources:hover {
+    color: #172a63;
+}
+
+.hover-social:hover {
+    color: #ffbd4c;
+}
+
 
 nav ul a {
   transition: color .45s;
@@ -101,10 +118,10 @@ nav ul a {
 /* Hide Dropdowns by Default
  * and giving it a position of absolute */
 nav ul ul {
-	display: none;
-	position: absolute;
-	/* has to be the same number as the "line-height" of "nav a" */
-	top: 64px;
+    display: none;
+    position: absolute;
+    /* has to be the same number as the "line-height" of "nav a" */
+    top: 64px;
 }
 
 /* Display Dropdowns on Hover */
@@ -114,21 +131,24 @@ nav ul li:hover > ul {
 
 /* Fisrt Tier Dropdown */
 nav ul ul li {
-	width:170px;
-	float:none;
-	display:list-item;
-	position: relative;
+    width:240px;
+    float:none;
+    display:list-item;
+    position: relative;
 }
+
+
+
 
 /* Second, Third and more Tiers
  * We move the 2nd and 3rd etc tier dropdowns to the left
  * by the amount of the width of the first tier.
 */
 nav ul ul ul li {
-	position: relative;
-	top:-60px;
-	/* has to be the same number as the "width" of "nav ul ul li" */
-	left:170px;
+    position: relative;
+    top:-60px;
+    /* has to be the same number as the "width" of "nav ul ul li" */
+    left:170px;
 }
 
 
@@ -140,118 +160,119 @@ li > a:only-child:after { content: ''; }
 /* Media Queries
 --------------------------------------------- */
 
-@media all and (max-width : 980px) {
+@media all and (max-width : 990px) {
 
-	#logo {
-		display: block;
-		text-align: center;
-		float: right;
-	}
+    #logo {
+        display: block;
+        text-align: center;
+        float: right;
+    }
 
-	nav {
-		margin: 0;
-	}
+    nav {
+        margin: 0;
+    }
 
-	/* Hide the navigation menu by default */
-	/* Also hide the  */
-	.toggle + a,
-	.menu {
-		display: none;
-	}
+    /* Hide the navigation menu by default */
+    /* Also hide the  */
+    .toggle + a,
+    .menu {
+        display: none;
+    }
 
-	/* Styling the toggle label */
-	.toggle {
-		display: block;
-		background-color: rgb(231, 73, 62);
-		padding:14px 20px;
-		color:#FFF;
-		font-size:17px;
-		text-decoration:none;
-		border:none;
-	}
+    /* Styling the toggle label */
+    .toggle {
+        display: block;
+        background-color: #FFF;
+        padding:14px 20px;
+        color:#e7493e;
+        font-size:17px;
+        text-decoration:none;
+        border:none;
+    }
 
-	.toggle:hover {
-		background-color: rgb(209, 55, 55);
-	}
+    .toggle:hover {
+        background-color: #FFF;
+    }
 
-	/* Display Dropdown when clicked on Parent Lable */
-	[id^=drop]:checked + ul {
-		display: block;
-	}
+    /* Display Dropdown when clicked on Parent Lable */
+    [id^=drop]:checked + ul {
+        display: block;
+    }
 
-	/* Change menu item's width to 100% */
-	nav ul li {
-		display: block;
-		width: 100%;
-		}
+    /* Change menu item's width to 100% */
+    nav ul li {
+        display: block;
+        width: 100%;       
+        }
 
-	nav ul ul .toggle,
-	nav ul ul a {
-		padding: 0 40px;
-	}
+    nav ul ul .toggle,
+    nav ul ul a {
+        padding: 0 40px;
+    }
 
-	nav ul ul ul a {
-		padding: 0 80px;
-	}
+    nav ul ul ul a {
+        padding: 0 80px;
+    }
 
-	nav a:hover,
- 	nav ul ul ul a {
-		background-color: #000000;
-  transition: background .45s;
-	}
+    nav a:hover,
+    nav ul ul ul a {
+        background-color: #bee4e7;
+        transition: background .45s;
+    }
 
-	nav ul li ul li .toggle,
-	nav ul ul a,
+    nav ul li ul li .toggle,
+    nav ul ul a,
   nav ul ul ul a{
-		padding:14px 20px;
-		color:#FFF;
-	}
+        padding:14px 20px;
+        color:#e7493e;
+    }
 
 
-	nav ul li ul li .toggle,
-	nav ul ul a {
-		background-color: ##B9292F;
-	}
+    nav ul li ul li .toggle,
+    nav ul ul a {
+        background-color: #FFF;
+    }
 
-	/* Hide Dropdowns by Default */
-	nav ul ul {
-		float: none;
-		position:static;
-		color: #ffffff;
-		/* has to be the same number as the "line-height" of "nav a" */
-	}
+    /* Hide Dropdowns by Default */
+    nav ul ul {
+        float: none;
+        position:static;
+        color: #FFF;
+        /* has to be the same number as the "line-height" of "nav a" */
+    }
 
-	/* Hide menus on hover */
-	nav ul ul li:hover > ul,
-	nav ul li:hover > ul {
-		display: none;
-	}
+    /* Hide menus on hover */
+    nav ul ul li:hover > ul,
+    nav ul li:hover > ul {
+        display: none;
+    }
 
-	/* Fisrt Tier Dropdown */
-	nav ul ul li {
-		display: block;
-		width: 100%;
-	}
+    /* Fisrt Tier Dropdown */
+    nav ul ul li {
+        display: block;
+        width: 100%;
+    }
 
-	nav ul ul ul li {
-		position: static;
-		/* has to be the same number as the "width" of "nav ul ul li" */
+    nav ul ul ul li {
+        position: static;
+        /* has to be the same number as the "width" of "nav ul ul li" */
 
-	}
+    }
 
 }
 
 @media all and (max-width : 330px) {
 
-	nav ul li {
-		display:block;
-		width: 94%;
-	}
+    nav ul li {
+        display:block;
+        width: 94%;
+    }
 
 }
 
 .logo {
     font-size: 1.8em;
+    padding: 10px 0 0 0;
     color: #FFFFFF;
     text-shadow: 1px 1px #00afbf, 2px 2px #00afbf, 3px 3px #00afbf;
      -webkit-transition: all 0.25s ease-out;
@@ -259,50 +280,97 @@ li > a:only-child:after { content: ''; }
      -o-transition: all 0.25s ease-out;
 }
 
-.logo:hover {
+/* .logo:hover {
     text-shadow: 1px 1px #00afbf, 2px 2px #00afbf, 3px 3px #00afbf, 4px 4px #00afbf, 5px 5px #00afbf, 6px 6px #00afbf;
+} */
+
+.dbtn {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: relative;
+  display: block;
+  overflow: hidden;
+  border-width: 0;
+  outline: none;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+  
+  background-color: #2ecc71;
+  color: #ecf0f1;
+  
+  transition: background-color .3s;
 }
 
+.dbtn:hover, .btn:focus {
+  background-color: #27ae60;
+}
+
+.dbtn > * {
+  position: relative;
+}
+
+.dbtn span {
+  display: block;
+  padding: 12px 24px;
+}
+
+.dbtn:before {
+  content: "";
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+  display: block;
+  width: 0;
+  padding-top: 0;
+    
+  border-radius: 100%;
+  
+  background-color: rgba(236, 240, 241, .3);
+  
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.dbtn:active:before {
+  width: 120%;
+  padding-top: 120%;
+  
+  transition: width .2s ease-out, padding-top .2s ease-out;
+}
+
+/* Styles for different color buttons and adjustments */
+*, *:before, *:after {
+  box-sizing: border-box;
+}
 </style>
 
 <nav class="ccm-custom-style-heading">
 <div id="logo">
 <a class="logo" href="/index.php">
-  <img src="https://test.changeforkids.org/application/files/9815/6106/0965/cfk-tiny-logo.png" alt="Change for Kids" />
+  <img src="https://changeforkids.org/application/files/4615/6140/6511/logo-header-spacer.png" alt="Change for Kids" />
 </a>
 </div>
 <label for="drop" class="toggle">MENU &#9776;</label>
 <input type="checkbox" id="drop" />
     <ul class="menu">
-          <!-- Donate Button -->
-        <li>
-        <!--<button onclick="window.location.href = 'https://w3docs.com'" class="dbtn orange">★ MAKE A CHANGE
-</button>-->
-        <button class="dbtn orange" type="button" onclick="window.location.href = '/index.php/donate'"><span>Donate Today!</span></button>
-        </li>
         <li>
          <!-- First Tier Drop Down -->
             <label for="drop-about" class="toggle">About Us</label>
-            <a href="#jumpabout">About Us ★</a>
+            <a href="#jumpabout" class="hover-about">About Us ★</a>
             <input type="checkbox" id="drop-about"/>
             <ul>
-                <li><a href="/index.php/about-us#mission">Mission / Vision</a></li>
-                <li><a href="/index.php/about-us#purpose">Purpose</a></li>
-                <li>
-
-                <!-- Second Tier Drop Down -->
-                <label for="drop-values" class="toggle">Values</label>
-                <a href="/index.php/about-us#values">Values ★</a>
-                <input type="checkbox" id="drop-values"/>
-
-                <ul>
-                    <li><a href="/index.php/about-us#people">People</a></li>
-                    <li><a href="/index.php/about-us#financials">Financials</a></li>
-                </ul>
-                </li>
-                <li><a href="/index.php/about-us#25years">25 Years!</a></li>
-                <li><a href="/index.php/about-us#join">Join Our Team</a></li>
-                <li><a href="/index.php/about-us#contact">Contact Us</a></li>
+                <li><a href="/index.php/about-us#whatwedo" class="hover-about">What We Do</a></li>
+                <li><a href="/index.php/about-us#missionpurpose" class="hover-about">Mission and Purpose</a></li>
+                <li><a href="/index.php/about-us#valuesculture" class="hover-about">Values and Culture</a></li>
+                <li><a href="/index.php/about-us#people" class="hover-about">People</a></li>
+                <li><a href="/index.php/about-us#join" class="hover-about">Join Our Team</a></li>
             </ul>
 
         </li>
@@ -312,84 +380,60 @@ li > a:only-child:after { content: ''; }
 
         <!-- First Tier Drop Down -->
         <label for="drop-work" class="toggle">Our Work</label>
-        <a href="#jumpwork">Our Work ★</a>
+        <a href="#jumpwork" class="hover-work">Our Work ★</a>
         <input type="checkbox" id="drop-work"/>
-        <ul>
-            <li>
-
-            <!-- Second Tier Drop Down -->
-            <label for="drop-do" class="toggle">What We do ★</label>
-            <a href="/index.php/our-work#">What We Do ★</a>
-            <input type="checkbox" id="drop-do"/>
-
             <ul>
-                <li><a href="/index.php/our-work#models">Models</a></li>
-                <li><a href="/index.php/our-work#programs">Programs</a></li>
-                <li><a href="/index.php/our-work#partners">Partners</a></li>
-                <li><a href="/index.php/our-work#imperative">Imperative for Change</a></li>
-                <li><a href="/index.php/our-work#impact">Impact</a></li>
+                <li><a href="/index.php/our-work#models" class="hover-work">The CFK Model</a></li>
+                <li><a href="/index.php/our-work#programs" class="hover-work">Programs</a></li>
+                <li><a href="/index.php/our-work#partners" class="hover-work">Schools</a></li>
+                <li><a href="/index.php/our-work#impact" class="hover-work">Impact</a></li>
+                <li><a href="/index.php/our-work#25years" class="hover-work">25 Years of Change</a></li>
             </ul>
-            </li>
-        </ul>
+
         </li>
+
 
         <li>
 
         <!-- First Tier Drop Down -->
         <label for="drop-schools" class="toggle">Take Action</label>
-        <a href="#jumpschools">Take Action ★</a>
+        <a href="#jumpaction" class="hover-action">Take Action ★</a>
         <input type="checkbox" id="drop-schools"/>
         <ul>
-            <li><a href="/index.php/our-schools#schools">CFK Schools</a></li>
-            <li><a href="/index.php/our-schools#criteria">School Criteria</a></li>
-            <li><a href="/index.php/our-schools#apply">Apply!</a></li>
+            <li><a href="/index.php/take-action#give" class="hover-action">Ways to Give</a></li>
+            <li><a href="/index.php/take-action#volunteer" class="hover-action">Volunteer</a></li>
+            <li><a href="/index.php/take-action#events" class="hover-action">Events</a></li>
+            <li><a href="/index.php/take-action#partners" class="hover-action">Partners</a></li>
+            <li><a href="/index.php/take-action#contact" class="hover-action">Contact Us</a></li>
         </ul>
         </li>
 
         <li>
 
         <!-- First Tier Drop Down -->
-        <label for="drop-action" class="toggle">News</label>
-        <a href="#jumpaction">News ★</a>
+        <label for="drop-action" class="toggle">Resources</label>
+        <a href="#jumpresources" class="hover-resources">Resources ★</a>
         <input type="checkbox" id="drop-action"/>
         <ul>
-            <li><a href="/index.php/take-action#give">Ways to Give</a></li>
-            <li><a href="/index.php/take-action#volunteer">Volunteer</a></li>
-            <li><a href="/index.php/take-action#events">Events</a></li>
-            <li><a href="/index.php/take-action#partnerships">Partnerships</a></li>
+          <li><a href="/index.php/resources#social" class="hover-resources">Social Media</a></li>
+          <li><a href="https://changeforkidsblog.org/" class="hover-resources" target="_blank">The CFK Blog</a></li>
+          <li><a href="/index.php/resources#financials" class="hover-resources">Financials</a></li>
+          <li><a href="/index.php/resources#news" class="hover-resources">In the News</a></li>
         </ul>
         </li>
-        <!-- Social Icons -->
-        <!--
+        <!-- Donate Button -->
         <li>
-            <a target="_blank" href="https://www.facebook.com/ChangeforKids" aria-label="Facebook"><i class="fa fa-facebook" aria-hidden="true" title="Facebook"></i></a>
+        <!--<button onclick="window.location.href = 'https://w3docs.com'" class="dbtn orange">★ MAKE A CHANGE </button>-->
+        <button class="dbtn orange" type="button" onclick="window.location.href = '/index.php/donate'"><span>&nbsp;Donate&nbsp;</span></button>
         </li>
-        <li>
-            <a target="_blank" href="http://instagram.com/changeforkids" aria-label="Instagram"><i class="fa fa-instagram" aria-hidden="true" title="Instagram"></i></a>
-        </li>
-        <li>
-            <a target="_blank" href="https://twitter.com/ChangeforKids" aria-label="Twitter"><i class="fa fa-twitter" aria-hidden="true" title="Twitter"></i></a>
-        </li>
-        <li>
-            <a target="_blank" href="http://www.youtube.com/user/changeforkids" aria-label="Youtube"><i class="fa fa-youtube" aria-hidden="true" title="Youtube"></i></a>
-        </li>
-        <li>
-            <a target="_blank" href="http://www.linkedin.com/company/change-for-kids" aria-label="LinkedIn"><i class="fa fa-linkedin-square" aria-hidden="true" title="LinkedIn"></i></a>
-        </li>
-        <li>
-            <a href="#jumptop" aria-label="Home"><i class="fa fa-home" aria-hidden="true" title="Home"></i></a>
-        </li>
-        -->
         <li>
         <label for="drop-social" class="toggle">Social</label>
-            <a href="#jumptop"><i class="fa fa-share-alt" aria-hidden="true" title="Social"></i></a>
+            <a href="#jumptop"><i class="fa fa-share-alt" aria-hidden="true" title="Social Links"></i></a>
             <input type="checkbox" id="drop-social"/>
             <ul>
                 <li><a href="https://www.facebook.com/ChangeforKids/" target="_blank"><i class="fa fa-facebook" aria-hidden="true" title="Facebook"></i></a></li>
                 <li><a href="http://instagram.com/changeforkids/" target="_blank"><i class="fa fa-instagram" aria-hidden="true" title="Instagram"></i></a></li>
                 <li><a href="https://twitter.com/ChangeforKids/" target="_blank"><i class="fa fa-twitter" aria-hidden="true" title="Twitter"></i></a></li>
-                <li><a href="http://www.youtube.com/user/changeforkids" target="_blank"><i class="fa fa-youtube" aria-hidden="true" title="Youtube"></i></a></li>
-                <li><a href="http://www.linkedin.com/company/change-for-kids/" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true" title="LinkedIn"></i></a></li>
             </ul>
         </li>
     </ul>
