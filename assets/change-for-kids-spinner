@@ -1,0 +1,117 @@
+<style>
+body { background-color: #FEFEFE; }
+
+#backgroundContainer {
+  background-image: url('https://www.changeforkids.org/application/files/5415/6363/6640/4.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 400px;
+  z-index: 6;
+}
+#spinnerContainer {
+  display: block;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  border: 0px dashed #e7493e;
+  position: relative;
+  border-radius: 50%;
+  animation: spin 30s linear infinite;
+}
+.spinner {
+  width: 128px;
+  height: 128px;
+  line-height: 128px;
+  text-align: center;
+  border-radius: 50%;
+  position: absolute;
+  animation: spin 30s linear infinite reverse;
+}
+
+a .spinner {
+  color: #FFF;
+  text-decoration: none; 
+  font-weight: 800;
+}
+
+.itemSchools {
+  background-image: url('https://changeforkids.org/application/files/thumbnails/file_manager_detail/3415/6238/6281/feliphe-schiarolli-hes6nUC1MVc-unsplash.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  border: 8px solid #e7493e;
+  box-shadow: inset 0 0 0 1000px rgba(231,76,32,.7);
+}
+.itemManagers {
+  background-image: url('https://changeforkids.org/application/files/thumbnails/file_manager_detail/2515/6238/6285/inaki-del-olmo-NIJuEQw0RKg-unsplash.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  border: 8px solid #00afbf;
+  box-shadow: inset 0 0 0 1000px rgba(0,175,191,.7);
+}
+.itemPrograms {
+  background-image: url('https://changeforkids.org/application/files/thumbnails/file_manager_detail/2615/6238/6308/ousa-chea-gKUC4TMhOiY-unsplash.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  border: 8px solid #8c539b;
+  box-shadow: inset 0 0 0 1000px rgba(140,83,155,.7);
+}
+.itemSupporters {
+  background-image: url('https://changeforkids.org/application/files/thumbnails/file_manager_detail/6815/6238/6302/moren-hsu-VLaKsTkmVhk-unsplash.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  border: 8px solid #ffbd4c;
+  box-shadow: inset 0 0 0 1000px rgba(255,189,76,.7);
+}
+.itemVolunteers {
+  background-image: url('https://changeforkids.org/application/files/thumbnails/file_manager_detail/1315/6238/6296/jessica-ruscello-OQSCtabGkSY-unsplash.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  border: 8px solid #c3d756;
+  box-shadow: inset 0 0 0 1000px rgba(195,215,86,.7);
+}
+.itemLogo {
+  background-image: url('https://changeforkids.org/application/files/thumbnails/file_manager_listing_2x/8515/6148/1572/sm-blue-icon-256.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+@keyframes spin {
+  100% {
+    transform: rotate(1turn);
+  }
+}
+</style>
+
+<div class="heightFix">
+<div id="backgroundContainer">
+<div id="spinnerContainer">
+  <!-- <a href="#"><div class="spinner itemLogo"></div></a> -->
+  <a href="#"><div class="spinner itemSchools"><h5>Schools</h5></div></a>
+  <a href="#"><div class="spinner itemManagers"><h5>Managers</h5></div></a>
+  <a href="#"><div class="spinner itemPrograms"><h5>Programs</h5></div></a>
+  <a href="#"><div class="spinner itemSupporters"><h5>Supporters</h5></div></a>
+  <a href="#"><div class="spinner itemVolunteers"><h5>Volunteers</h5></div></a>
+</div>
+</div>
+</div>
+
+<script>
+var radius = 240; // adjust to move items in and out 
+var fields = $('.spinner'),
+  container = $('#spinnerContainer'),
+  width = container.width(),
+  height = container.height();
+var angle = 0,
+  step = (2 * Math.PI) / fields.length;
+fields.each(function() {
+  var x = Math.round(width / 2 + radius * Math.cos(angle) - $(this).width() / 2);
+  var y = Math.round(height / 2 + radius * Math.sin(angle) - $(this).height() / 2);
+  if (window.console) {
+    console.log($(this).text(), x, y);
+  }
+  $(this).css({
+    left: x + 'px',
+    top: y + 'px'
+  });
+  angle += step;
+});
+</script>
