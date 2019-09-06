@@ -181,11 +181,6 @@ Before joining Change for Kids, Nicole previously worked at Graham Windham Servi
 Prior to joining Change for Kids, Monica worked as an English teacher in Phnom Penh, Cambodia, as well as various roles within the non-profit theater and film industries. She is also a screenwriter and playwright whose work has been produced at many independent theaters in New York City and Los Angeles. She holds a BA from UC Santa Barbara and an MFA in Creative Writing from the Writer’s Foundry.
 
 
-- Adrian Wright
-  - Communications & Special Projects Associate
-Adrian is thrilled to be making use of his considerable communications and marketing skills to positively impact early child education in New York City communities. A New York City native, Adrian was the Director of Photography for Flight Club and managed social media for West Elm Chelsea prior to joining CFK. He attended BMCC and majored in Applied Science and Business Management.
-
-
 - Yvette Mosely
   - School Manager
 Prior to joining Change for Kids, Yvette Mosley worked at Catholic Charities MOSAIC Beacon as an Outreach Coordinator and Leadership Development teacher for the teen program. She was a key contributor and advocate for the college readiness initiative while spearheading parent engagement workshops. She received a Bachelor’s Degree in Professional Studies & Human Services, and a Master’s Degree in Public Affairs & Administration from the Metropolitan College of New York. In addition, she has earned a number of certifications from the Department of Youth and Community Development.
@@ -194,11 +189,6 @@ Prior to joining Change for Kids, Yvette Mosley worked at Catholic Charities MOS
 - Shanise Alleyne
   - School Manager
 Before joining Change For Kids, Shanise worked for Millennium Development, a non-profit organization servicing youth through NYC Department of Youth & Community Development programs such as COMPASS and Cornerstone. She held several positions including Program Aid, Program Director, as well as Program Supervisor. Previously Shanise was in the role of Community School Director at a middle school in Staten Island. She holds a Bachelor's degree in Business Administration with a minor in Psychology, as well as a MBA, from the University of Bridgeport.
-  
-
-- Donna Newton
-  - Director of Communications
-Before joining Change for Kids, Donna spent several decades in the realms of marketing, advertising, and public relations as a new business director at several agencies, including Foote Cone & Belding, MediaCom, and DeVries Public Relations. Prior to that, she worked in the entertainment industry, initially as an independent casting director, then as the executive assistant/literary coordinator for theatre producer Richard Frankel. Donna is a co-chair of the women’s reproductive rights activist group WHARR. She is also a playwright/screenwriter; a parent; passionate about justice and fitness; a member of the Prospect Park Track Club; and a lifelong vegetarian.
 
 
 
